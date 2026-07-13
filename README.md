@@ -14,6 +14,7 @@ This repository keeps that work organized. It is not a content dump. It is a wor
 - Build once. Use everywhere.
 - Capture practical learning before it fades.
 - Turn experience into reusable frameworks.
+- Research industries through VIIF before turning insights into public content or playbooks.
 - Avoid generic content. Prefer real observations, useful questions, and honest lessons.
 
 ## Repository Map
@@ -22,7 +23,7 @@ This repository keeps that work organized. It is not a content dump. It is a wor
 | --- | --- |
 | `00-Brand-Bible` | Positioning, voice, Content DNA, and permanent writing rules. |
 | `01-LinkedIn` | Content series, post drafts, publishing rhythm, and LinkedIn assets. |
-| `02-Knowledge-Vault` | Notes, research, frameworks, stories, and reusable knowledge. |
+| `02-Knowledge-Vault` | Notes, research, industry intelligence, frameworks, stories, and reusable knowledge. |
 | `03-Projects` | Product and automation ideas being built or explored. |
 | `04-Website` | Personal website strategy, copy, structure, and future updates. |
 | `05-Resume` | Resume, profile, and career positioning material. |
@@ -30,6 +31,13 @@ This repository keeps that work organized. It is not a content dump. It is a wor
 | `07-SOPs` | Practical operating procedures for review, publishing, and maintenance. |
 | `08-Roadmap` | 2026 direction, priorities, and quarterly focus areas. |
 
+## Industry Intelligence
+
+VikashOS uses the Vikash Industry Intelligence Framework, or VIIF, to research industries before turning insights into LinkedIn posts, playbooks, website articles, or strategy notes.
+
+VIIF helps separate broad categories into useful research boundaries. Labels such as "IT" or "Technology" are too generic when the buying process, business model, risk profile, and buyer psychology differ across IT Services, Cybersecurity, Cloud and Computing, SaaS, Enterprise Software, Managed Services, Technology Consulting, and Infrastructure Services.
+
+The framework lives in `02-Knowledge-Vault/Industry-Intelligence`.
 ## Permanent Content Series
 
 | Series | Hashtag | Publishing Day |

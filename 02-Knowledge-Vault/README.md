@@ -16,6 +16,11 @@ Every useful note should include:
 - Possible use.
 - Tags or related series.
 
+## Industry Intelligence Rule
+
+Industry research should use the Vikash Industry Intelligence Framework before it becomes a public post, marketing playbook, sales playbook, or AI opportunity map.
+
+Do not treat broad labels such as "IT" or "Technology" as final categories when a narrower definition is needed.
 ## Folder Guide
 
 | Folder | Use |
@@ -24,6 +29,7 @@ Every useful note should include:
 | `AI` | AI tools, workflows, prompts, app ideas, and learning logs. |
 | `Business` | Strategy, finance, operations, economics, and leadership concepts. |
 | `Buyer-Psychology` | Industry-specific buying behaviour and stakeholder insights. |
+| `Industry-Intelligence` | VIIF framework, industry research templates, ICPs, buying committees, personas, journeys, and strategy outputs. |
 | `AGMP` | IIMA AGMP learning notes and applied reflections. |
 | `Frameworks` | Reusable models, checklists, and decision structures. |
 | `Stories` | Real experiences that may become posts after review. |

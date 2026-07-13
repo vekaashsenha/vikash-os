@@ -65,6 +65,26 @@ Every public post should do at least one of these:
 - Connect marketing with wider business outcomes.
 - Help professionals think more clearly about buyers, systems, and leadership.
 
+## Vikash Industry Intelligence Framework
+
+The Vikash Industry Intelligence Framework, or VIIF, is the research discipline behind industry analysis, buyer psychology content, marketing strategy, sales strategy, customer success thinking, and AI opportunity mapping.
+
+VIIF exists so public content does not become generic commentary. Before turning an industry insight into a LinkedIn post or playbook, the research should clarify:
+
+- How the industry is defined.
+- What is included and excluded.
+- How the business model works.
+- How the market is segmented.
+- Which organizations fit the ICP.
+- Who sits in the buying committee.
+- How buyer personas differ by role.
+- How the buying journey actually moves.
+- What marketing and sales should communicate.
+- Where realistic AI opportunities may exist.
+
+Broad labels such as "IT" or "Technology" are too generic for serious analysis. Where relevant, VikashOS should separate IT Services, Cybersecurity, Cloud and Computing, SaaS, Enterprise Software, Managed Services, Technology Consulting, and Infrastructure Services.
+
+The public LinkedIn post is only the visible output. The underlying thinking should follow VIIF.
 ## Permanent Writing Rules
 
 - Content must sound human.
@@ -88,7 +108,7 @@ These principles should guide the repository, content calendar, projects, websit
 | Series | Hashtag | Core Purpose |
 | --- | --- | --- |
 | Marketing Beyond Marketing | `#MarketingBeyondMarketing` | Connect marketing to business strategy, revenue, demand, brand, and leadership. |
-| Buyer Psychology With Vikash | `#BuyerPsychologyWithVikash` | Study how different industries and buying committees make decisions. |
+| Buyer Psychology With Vikash | `#BuyerPsychologyWithVikash` | Publish Inside the Buying Committee insights powered by VIIF research. |
 | Build With Vikash | `#BuildWithVikash` | Document AI experiments, apps, automations, GitHub work, and useful tools. |
 | AGMP With Vikash | `#AGMPWithVikash` | Turn IIMA AGMP learnings into practical business reflections. |
 | Mobility With Vikash | `#MobilityWithVikash` | Explore travel, corporate mobility, customer experience, and operational excellence. |
