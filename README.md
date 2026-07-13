@@ -1,141 +1,56 @@
-# vikash-os
-AI-powered personal operating system for building my professional brand, documenting knowledge, developing products, and sharing practical insights on marketing, business, and continuous learning.
-# VikashOS
+# VikashOS v1.0
 
-> Learn. Build. Share. Repeat.
+VikashOS is an AI-powered personal operating system for professional branding, knowledge management, product building, continuous learning, and business growth.
 
-Welcome to **VikashOS**.
+The central narrative is simple:
 
-This repository is my personal operating system for continuous learning, AI-powered product building, business thinking, and professional growth.
+Vikash Sinha is documenting his evolution from an experienced B2B marketing leader into an AI-powered business builder.
 
-Instead of treating my career as a collection of jobs, I'm building it as a living system where every idea, project, lesson, and experiment becomes reusable knowledge.
+This repository keeps that work organized. It is not a content dump. It is a working system for thinking, learning, building, publishing, and improving over time.
 
----
+## Operating Principles
 
-# Why VikashOS?
+- Learn. Build. Share. Repeat.
+- Build once. Use everywhere.
+- Capture practical learning before it fades.
+- Turn experience into reusable frameworks.
+- Avoid generic content. Prefer real observations, useful questions, and honest lessons.
 
-Technology is changing how we work.
+## Repository Map
 
-AI is changing how we build.
+| Folder | Purpose |
+| --- | --- |
+| `00-Brand-Bible` | Positioning, voice, Content DNA, and permanent writing rules. |
+| `01-LinkedIn` | Content series, post drafts, publishing rhythm, and LinkedIn assets. |
+| `02-Knowledge-Vault` | Notes, research, frameworks, stories, and reusable knowledge. |
+| `03-Projects` | Product and automation ideas being built or explored. |
+| `04-Website` | Personal website strategy, copy, structure, and future updates. |
+| `05-Resume` | Resume, profile, and career positioning material. |
+| `06-Templates` | Reusable templates for posts, notes, and future workflows. |
+| `07-SOPs` | Practical operating procedures for review, publishing, and maintenance. |
+| `08-Roadmap` | 2026 direction, priorities, and quarterly focus areas. |
 
-Business is changing how we make decisions.
+## Permanent Content Series
 
-Rather than waiting for the future, I'm documenting my journey of adapting to it.
+| Series | Hashtag | Publishing Day |
+| --- | --- | --- |
+| Marketing Beyond Marketing | `#MarketingBeyondMarketing` | Monday |
+| Build With Vikash | `#BuildWithVikash` | Tuesday |
+| AGMP With Vikash | `#AGMPWithVikash` | Wednesday |
+| Mobility With Vikash | `#MobilityWithVikash` | Thursday |
+| Buyer Psychology With Vikash | `#BuyerPsychologyWithVikash` | Friday |
+| Leadership With Vikash | `#LeadershipWithVikash` | Saturday |
 
-VikashOS is where I organize that journey.
+Sunday is reserved for review, engagement, and planning.
 
----
+## Writing Rules
 
-# What you'll find here
+Content must sound human. It should feel like an experienced manager sharing something honestly.
 
-## Marketing Beyond Marketing
+Avoid clickbait, artificial hype, empty motivation, generic AI language, fake stories, invented data, excessive emojis, and influencer-style phrasing.
 
-Business-first marketing strategies, demand generation, growth systems, and revenue-focused thinking.
+The aim is not to position Vikash as an influencer or generic content creator. The aim is to position him as an experienced business professional who documents learning and builds useful solutions using AI.
 
----
+## Current Status
 
-## Buyer Psychology
-
-Understanding how businesses buy across industries including:
-
-- Travel
-- SaaS
-- Healthcare
-- HR Services
-- IT Services
-- Consulting
-- Enterprise Solutions
-
----
-
-## Building with AI
-
-Documenting my journey of learning AI while building:
-
-- Applications
-- Websites
-- Automations
-- AI workflows
-- Product ideas
-
-No computer science background.
-
-Just curiosity and continuous learning.
-
----
-
-## IIMA AGMP Learnings
-
-Management frameworks and classroom insights applied to real business situations.
-
-Topics include:
-
-- Strategy
-- Finance
-- Operations
-- Leadership
-- Decision Making
-- Organizational Behaviour
-
----
-
-## Mobility & Travel
-
-Lessons from building and marketing mobility solutions, improving customer experience, and understanding the travel ecosystem.
-
----
-
-## Leadership
-
-Career lessons, failures, communication, management, and continuous improvement.
-
----
-
-# Current Projects
-
-- VikashOS
-- QueryCite
-- AI Automation
-- Personal Website
-- LinkedIn Knowledge System
-
-More coming soon...
-
----
-
-# Philosophy
-
-I believe great careers are built by continuously learning, building, sharing, and improving.
-
-Every project in this repository follows one simple principle:
-
-> Build once. Learn forever.
-
----
-
-# Current Mission (2026)
-
-Transform from an experienced marketing leader into an AI-powered business builder while documenting every meaningful lesson along the way.
-
----
-
-# Connect
-
-LinkedIn:
-https://www.linkedin.com/in/vikash-senha/
-
----
-
-## Motto
-
-> Learn.
->
-> Build.
->
-> Share.
->
-> Repeat.
-
----
-
-*This repository is continuously evolving, just like my journey.*
+This is the local setup for VikashOS v1.0. Nothing should be committed, pushed, merged, published, or scheduled until reviewed.
