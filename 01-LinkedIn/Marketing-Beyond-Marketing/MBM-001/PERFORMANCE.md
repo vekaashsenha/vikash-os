@@ -5,9 +5,21 @@
 | Field | Status |
 | --- | --- |
 | Content status | Ready for final review |
-| Supergrow status | Not submitted |
-| Canva status | Not created |
-| Scheduled date | Not scheduled |
+| Supergrow status | Scheduled |
+| Canva status | Pending – Canva generation failed (temporary service issue) |
+| Scheduled date | Wednesday, 15 July 2026, 09:00 AM IST |
+
+## Production Metadata
+
+| Field | Value |
+| --- | --- |
+| Content commit | `c3ab07765a54f5efe5c60b628566ba78785c021c` |
+| Supergrow score | 10/10 |
+| Supergrow draft ID | `49cd2806-d162-49c7-a742-19fe169002dd` |
+| Supergrow draft | https://app.supergrow.ai/write?post_id=49cd2806-d162-49c7-a742-19fe169002dd&workspace_id=d604ef66-00d6-4fe3-8258-0c599ece95ad |
+| Schedule slot ID | `ac8efadc-f431-46de-a7db-c402f45a1ede` |
+| Canva carousel | Pending – Canva generation failed (temporary service issue) |
+| Canva static image | Pending – Canva generation failed (temporary service issue) |
 
 No performance data is available because the post has not been published. Do not estimate or backfill results.
 
@@ -23,8 +35,11 @@ No performance data is available because the post has not been published. Do not
 - [x] The video opens with the performance-review moment.
 - [x] The video ends with the approved closing sentence.
 - [x] Hashtags are limited to those used in the approved post.
-- [ ] Final human review completed.
-- [ ] Publishing format selected.
+- [x] Final human review completed.
+- [x] Supergrow draft scored at least 9/10.
+- [x] Supergrow scheduling confirmed.
+- [ ] Canva carousel created.
+- [ ] Canva static image created.
 
 ## Publication Record
 
