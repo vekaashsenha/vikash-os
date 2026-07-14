@@ -4,10 +4,20 @@
 
 | Field | Status |
 | --- | --- |
-| Content status | Draft for review |
-| Supergrow status | Not submitted |
-| Canva status | Not created |
-| Scheduled date | Not scheduled |
+| Content status | Approved |
+| Supergrow status | Scheduled |
+| Canva status | Pending – Canva generation failed (temporary service issue) |
+| Scheduled date | Thursday, 16 July 2026, 09:00 AM IST |
+
+## Production Metadata
+
+| Field | Value |
+| --- | --- |
+| Content commit | `8f44d574b8ee729c1ff1f415599afd03c30adfbc` |
+| Supergrow score | 9/10 |
+| Supergrow draft ID | `44ac4f2d-66e0-42b2-a1b4-e0e16470739c` |
+| Supergrow draft | https://app.supergrow.ai/write?post_id=44ac4f2d-66e0-42b2-a1b4-e0e16470739c&workspace_id=d604ef66-00d6-4fe3-8258-0c599ece95ad |
+| Schedule slot ID | `b6c060ac-acaf-43a3-a29d-9086394b31c1` |
 
 No performance data is available because the post has not been published. Do not estimate or backfill results.
 
@@ -21,8 +31,11 @@ No performance data is available because the post has not been published. Do not
 - [x] No professor quotations, statistics, case facts, or classroom details were added.
 - [x] The tone is human, professional, and restrained.
 - [x] Hashtags are limited to those used in the approved post.
-- [ ] Final human review completed.
-- [ ] Publishing format selected.
+- [x] Final human review completed.
+- [x] Supergrow draft scored at least 9/10.
+- [x] Supergrow scheduling confirmed.
+- [ ] Canva carousel created.
+- [ ] Canva static image created.
 
 ## Publication Record
 
