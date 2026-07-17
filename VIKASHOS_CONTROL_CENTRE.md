@@ -16,7 +16,7 @@ Last reviewed: **17 July 2026**
 | Supergrow | Operational in recorded post packages | Confirm publication state after scheduled dates. |
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
 | Performance tracking | Templates ready; results pending | Confirm published URLs and capture real metrics. |
-| Posting-time experiment | Phase 1 — Baseline | Verify 09:00 AM results before testing 08:30 AM. |
+| Posting-time experiment | Experiment Window — 8:30 AM IST | Six approved posts are scheduled for 20–25 July 2026 in Asia/Kolkata. |
 
 ## Dashboard Roles
 
@@ -31,6 +31,18 @@ Last reviewed: **17 July 2026**
 | ROAS versus business ROI | Marketing Beyond Marketing | Scheduled; publication confirmation pending | 15 July 2026, 09:00 AM IST | [MBM-001](01-LinkedIn/Marketing-Beyond-Marketing/MBM-001/) |
 | A business promise is an operations promise | AGMP With Vikash | Scheduled; publication confirmation pending | 16 July 2026, 09:00 AM IST | [AGMP-001](01-LinkedIn/AGMP/AGMP-001/) |
 | Ideas do not build products; systems do | Build With Vikash | Scheduled; publication confirmation pending | 17 July 2026, 09:00 AM IST | [BWV-001](01-LinkedIn/Build-With-Vikash/BWV-001/) |
+## Next Scheduled Week
+
+| Content | Series | Repository status | Scheduled time | Source |
+| --- | --- | --- | --- | --- |
+| Different stakeholders buy different outcomes | Inside the Buying Committee | Scheduled | 20 July 2026, 08:30 AM IST | [IBC-001](01-LinkedIn/Buyer-Psychology/IBC-001/) |
+| Making marketing's contribution visible | Marketing Beyond Marketing | Scheduled | 21 July 2026, 08:30 AM IST | [MBM-002](01-LinkedIn/Marketing-Beyond-Marketing/MBM-002/) |
+| The room becomes part of the curriculum | AGMP With Vikash | Scheduled | 22 July 2026, 08:30 AM IST | [AGMP-002](01-LinkedIn/AGMP/AGMP-002/) |
+| Understanding the gap between logic and execution | Build With Vikash | Scheduled | 23 July 2026, 08:30 AM IST | [BWV-002](01-LinkedIn/Build-With-Vikash/BWV-002/) |
+| Customers pay to remove friction | Mobility and Travel Insights | Scheduled | 24 July 2026, 08:30 AM IST | [MTI-001](01-LinkedIn/Mobility/MTI-001/) |
+| Listening when a specialist challenges you | Leadership Journal | Scheduled | 25 July 2026, 08:30 AM IST | [LJ-002](01-LinkedIn/Leadership/LJ-002/) |
+
+All six schedules use the `Experiment Window — 8:30 AM IST` in the `Asia/Kolkata` timezone.
 
 ## Pending Approvals
 
@@ -50,7 +62,7 @@ Canva is optional and does not block publication.
 
 ## Pending Scheduling
 
-- No new schedule should be inferred.
+- The six posts for 20–25 July 2026 are scheduled at 08:30 AM IST in Asia/Kolkata.
 - Manifesto 001 is `Status verification required`; do not schedule or reschedule without verified external state and explicit approval.
 
 ## Pending Performance Reviews
@@ -75,12 +87,12 @@ Open the [Master Story Bank](99-System/08_STORY_BANK.md).
 
 ## Posting-Time Experiment
 
-- **Current phase:** Phase 1 — Baseline
-- **Next recommended test window:** 08:30 AM IST, after baseline metrics are collected and an exact date is approved
+- **Current phase:** Experiment Window — 8:30 AM IST
+- **Approved test window:** 20–25 July 2026 at 08:30 AM IST in Asia/Kolkata
 - **Baseline scheduled records:** 3
 - **Baseline confirmed samples with results:** 0
 - **Results awaiting collection:** MBM-001, AGMP-001, and BWV-001 at 2 hours, 24 hours, 72 hours, and 7 days, subject to publication verification
-- **Timing decisions awaiting approval:** Exact post and date for EXP-001; no default-time change proposed
+- **Timing decisions awaiting approval:** No default-time change is proposed until the experiment results are recorded.
 
 Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
