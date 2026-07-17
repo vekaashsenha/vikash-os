@@ -85,7 +85,7 @@ Do not start a new task until the primary task is complete or deliberately pause
 
 | Content item | Series | Status | Publish date | Supergrow link | GitHub file |
 | --- | --- | --- | --- | --- | --- |
-| Manifesto 001 | Leadership Journal | Scheduled | 14 July 2026, 9:00 AM IST | Add link | `01-LinkedIn/Leadership/MANIFESTO-001.md` |
+| Manifesto 001 | Leadership Journal | Status verification required | Pending verification | Add verified link | `01-LinkedIn/Leadership/MANIFESTO-001.md` |
 
 **Pipeline stages:** Idea → Research → Draft → Review → Scheduled → Published → Performance Review
 
