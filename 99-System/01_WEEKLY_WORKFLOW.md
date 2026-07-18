@@ -27,15 +27,21 @@ Expected Vikash time: **105–145 minutes**. Keep the remaining time as a buffer
 
 Open [the idea template](02_IDEA_CAPTURE_TEMPLATE.md). Capture three to five observations without trying to write finished posts. Each entry should take less than five minutes.
 
+For AI Visibility Journal ideas, capture whether each claim is an observation, hypothesis, experiment, or confirmed evidence. Record the real problem before any QueryCite connection.
+
 ### 2. Select the week
 
 Open [the Story Bank](08_STORY_BANK.md). Select ideas that are true, useful, sufficiently specific, safe to share, and different from recent posts. Carry unused ideas forward; do not discard them because they were not chosen.
 
 Open [the Posting-Time Experiment](15_POSTING_TIME_EXPERIMENT.md). Select the next unused window for an eligible post and assign an experiment ID. Do not repeatedly use the same slot while another approved window remains unused, unless the current experiment phase requires replication.
 
+AI Visibility Journal is a fortnightly rotation candidate, not an additional weekly slot. Select it only when it has the strongest genuine, evidence-backed story. Replace the least relevant or weakest pillar for that week without permanently removing that pillar. Do not assign Sunday as a mandatory posting day.
+
 ### 3. Draft with ChatGPT
 
 Give ChatGPT the selected Story Bank entries and [the content-creation prompt](03_CONTENT_CREATION_PROMPT.md). ChatGPT may shape the writing but must not fill factual gaps with invented details.
+
+For AI Visibility Journal, also use the [series rules](../01-LinkedIn/AI-Visibility-Journal/README.md): teach before promoting, put the customer problem before the product feature, and do not claim that AI replaced Google or that SEO is dead.
 
 ### 4. Review and approve
 
@@ -52,6 +58,8 @@ After approval, use [the publishing prompt](06_PUBLISHING_AND_SCHEDULING_PROMPT.
 ### 7. Review results
 
 After publication data is available, update the post's `PERFORMANCE.md`, [the performance dashboard](10_PERFORMANCE_DASHBOARD.md), and experiment log. Collect available results at 2 hours, 24 hours, 72 hours, and 7 days. Record facts only.
+
+For AI Visibility Journal, record QueryCite website visits or sign-ups only when reliable tracking exists. Do not attribute them to LinkedIn from timing or assumption alone.
 
 ### 8. Close the week
 

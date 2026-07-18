@@ -76,7 +76,7 @@ Do not start a new task until the primary task is complete or deliberately pause
 | Project | Stage | Current priority | Next milestone | Repository or folder |
 | --- | --- | --- | --- | --- |
 | VikashOS | To update | To update | To update | `.` |
-| QueryCite | To update | To update | To update | `03-Projects/QueryCite/` |
+| QueryCite | Building; maturity and outcomes unverified | Validate the AI-visibility problem with real evidence | Document verified capabilities and limitations | `03-Projects/QueryCite/` |
 | Personal Website | To update | To update | To update | `04-Website/` |
 | Document Vault | To update | To update | To update | `03-Projects/Document-Vault/` |
 | NPS Widget | To update | To update | To update | `03-Projects/NPS-Widget/` |
@@ -86,6 +86,7 @@ Do not start a new task until the primary task is complete or deliberately pause
 | Content item | Series | Status | Publish date | Supergrow link | GitHub file |
 | --- | --- | --- | --- | --- | --- |
 | Manifesto 001 | Leadership Journal | Status verification required | Pending verification | Add verified link | `01-LinkedIn/Leadership/MANIFESTO-001.md` |
+| AIV-001 | AI Visibility Journal | Raw approved concept — not scheduled | Not scheduled | Not submitted | `01-LinkedIn/AI-Visibility-Journal/AIV-001.md` |
 
 **Pipeline stages:** Idea → Research → Draft → Review → Scheduled → Published → Performance Review
 
@@ -145,6 +146,7 @@ New ideas go to the backlog. They do not interrupt the current sprint unless the
 - [Repository overview](README.md)
 - [Brand Bible](00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](00-Brand-Bible/CONTENT_DNA.md)
+- [AI Visibility Journal](01-LinkedIn/AI-Visibility-Journal/)
 - [LinkedIn](01-LinkedIn/)
 - [Knowledge Vault](02-Knowledge-Vault/)
 - [VIIF Framework](02-Knowledge-Vault/Industry-Intelligence/VIIF_FRAMEWORK.md)

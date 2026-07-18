@@ -45,6 +45,22 @@ Use this section for story-led posts. For analytical, educational, practical, or
 - [ ] Any product or company mention is secondary to the insight.
 - [ ] The story does not make Vikash look more knowledgeable, senior, successful, or technically capable than the evidence supports.
 - [ ] The post allows Vikash to be wrong, uncertain, surprised, or still learning when that is what happened.
+
+## AI Visibility Journal Review
+
+Use this section for AI Visibility Journal and QueryCite-related posts.
+
+- [ ] The post teaches before promoting.
+- [ ] A real customer, founder, marketer, or product problem comes before any feature.
+- [ ] QueryCite appears only when naturally connected and does not dominate the post.
+- [ ] No founder conversation, quotation, audit result, metric, recommendation, customer reaction, or product outcome was invented.
+- [ ] The post does not claim that AI replaced Google or that SEO is dead.
+- [ ] Observations, hypotheses, experiments, and confirmed evidence are clearly distinguished.
+- [ ] Confidential customer information and identifying details are removed.
+- [ ] The post does not criticise or embarrass a founder, company, agency, or client.
+- [ ] QueryCite's maturity, customers, capabilities, and results are not exaggerated.
+- [ ] Any website visit or sign-up attribution is supported by reliable tracking.
+- [ ] The post can stand on its educational value even if the QueryCite reference is removed.
 ## Approval Status
 
 Choose exactly one:

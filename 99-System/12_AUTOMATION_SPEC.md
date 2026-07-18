@@ -10,6 +10,7 @@ This document describes an automation-ready architecture. It does **not** claim 
 - AGMP lessons approved for personal use
 - Work observations safe to share
 - Product and build updates
+- AI Visibility Journal observations, hypotheses, experiments, and confirmed evidence
 - Story Bank entries
 
 ### Processing
@@ -42,6 +43,7 @@ This document describes an automation-ready architecture. It does **not** claim 
 | Capture | Weekly session or real observation | Raw note | Record a structured idea | Markdown template | Vikash supplies facts | Story Bank entry exists | Idea remains in chat or memory only | Use the five-minute template | Manual |
 | Select | Weekly planning | Active Story Bank | Choose 1–3 useful, safe ideas | Story Bank + Control Centre | Yes | Ideas marked `Selected` | Topic lacks evidence or repeats recent content | Return to `Captured` or `Needs evidence` | Manual |
 | Draft | Selected idea | Facts, evidence, series, restrictions | Create draft options | ChatGPT prompt | Approval after drafting | Draft uses only supplied facts | Invented detail, weak voice, unclear lesson | Revise from source notes; do not patch facts | Semi-automated |
+| AI visibility evidence check | AI Visibility Journal draft | Source notes + claim classifications + product claims | Verify observation, hypothesis, experiment, confirmed evidence, confidentiality, and natural QueryCite relevance | Series rules + review checklist | Yes | Every public claim is classified and supportable | Invented conversation, unsupported AI-search claim, product-first draft, or exaggerated capability | Return to `Needs evidence`; do not create or schedule a product advertisement | Manual |
 | Review | Draft ready | Draft + evidence | Check truth, confidentiality, voice, value | Review checklist | Yes | Status becomes `Approved for production` | Unsupported claim or confidentiality risk | Mark `Needs revision` or `Archived` | Manual |
 | Asset package | Production approval | Exact approved post | Create five standard files | Codex | Yes before any external action | Package exists and diff is scoped | Duplicate folder, changed approved wording, wrong worktree | Stop, compare, and correct before approval | Semi-automated |
 | Content commit | Publication approval | Approved package | Commit and push scoped files | Git + GitHub | Yes | `origin/main` contains content commit | Conflict, rejected push, unexpected staged file | Stop; resolve explicitly; do not publish | Semi-automated |
@@ -51,6 +53,7 @@ This document describes an automation-ready architecture. It does **not** claim 
 | Metadata commit | Production steps complete | Commit, score, draft ID, schedule, Canva status | Update `PERFORMANCE.md`, commit, push | Codex + GitHub | No new content approval if metadata is factual | Metadata commit is on `origin/main` | Missing or contradictory metadata | Verify external state, then correct | Semi-automated |
 | Publication confirmation | Scheduled time has passed | Platform state | Confirm published status and URL | Supergrow / LinkedIn | No, read-only | Public URL recorded | Scheduled date passed but status unknown | Keep `Pending`; investigate without guessing | Semi-automated |
 | Performance capture | Metrics available | LinkedIn metrics and comments | Record post and dashboard results | Supergrow / manual input / Codex | Vikash validates interpretation | Factual metrics and lessons recorded | Metrics unavailable or definitions changed | Use `Pending`; note definition changes | Semi-automated |
+| QueryCite attribution | Reliable analytics available | Approved tracking data | Record website visits and sign-ups only when attribution is supportable | Analytics + manual validation | Vikash validates method | Metric and attribution method are recorded together | Visits or sign-ups inferred from timing alone | Record `Not available`; do not attribute | Manual |
 | Monthly review | Month end | Calendar, dashboard, Story Bank | Approve one evidence-based improvement | Monthly review | Yes | Decision record completed | Weekly redesign or tool proliferation | Defer changes until repeated bottleneck is documented | Manual |
 
 ## Future Semi-Automated Timing Process
@@ -91,3 +94,6 @@ GitHub is the durable record. External tools may execute publishing tasks, but t
 - A score never overrides Vikash's wording approval.
 - External writes require an explicit approved scope.
 - Failed optional automation does not become a false success record.
+- AI Visibility Journal never bypasses the evidence and publication-approval gates.
+- QueryCite promotion automation must not generate product-first posts or unsupported results.
+- A visit or sign-up is not attributed to LinkedIn without a reliable documented method.

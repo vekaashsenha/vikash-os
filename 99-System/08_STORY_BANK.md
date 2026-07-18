@@ -6,7 +6,7 @@ This is the single index of content-worthy stories and observations. Detailed no
 
 `Captured` → `Ready to develop` → `Selected` → `Drafted` → `Approved` → `Scheduled` → `Published` → `Reviewed`
 
-Use `Needs evidence`, `Sensitive`, or `Archived` when the normal flow should stop.
+Use `Raw approved concept`, `Needs evidence`, `Sensitive`, or `Archived` when the normal flow should stop. A raw approved concept is approved for editorial development, not publication or scheduling.
 
 ## Stories
 
@@ -17,11 +17,12 @@ Use `Needs evidence`, `Sensitive`, or `Archived` when the normal flow should sto
 | STORY-003 | AGMP With Vikash | A business promise is an operations promise | Operations determines whether strategy survives contact with the customer. | Scheduled; publication confirmation pending | [AGMP-001](../01-LinkedIn/AGMP/AGMP-001/) | Confirm publication, then capture metrics. |
 | STORY-004 | Mobility and Travel Insights | Travel changes what feels normal | Exposure to different places can expand a person's understanding of normal. | Captured | User-provided known idea; repository note pending | Capture the real experience and confidentiality-safe details. |
 | STORY-005 | Inside the Buying Committee | Different stakeholders buy different outcomes | A buying committee is not one buyer; each role evaluates a different outcome and risk. | Needs evidence | [BP-001](../01-LinkedIn/Buyer-Psychology/BP-001.md) | Complete VIIF research and add real observations. |
-| STORY-006 | Build With Vikash | Building QueryCite | Research becomes more useful when source context and citations remain connected. | Ready to develop | [QueryCite](../03-Projects/QueryCite/README.md) | Define the first workflow, target user, and verified build status. |
+| STORY-006 | Build With Vikash | Building QueryCite | Product-building should connect a real AI-visibility problem to understandable evidence and useful next actions. | Ready to develop | [QueryCite](../03-Projects/QueryCite/README.md) | Confirm the first workflow, target user, capabilities, and limitations before drafting. |
 | STORY-007 | Mobility and Travel Insights | Mobility service is an operating system | Reliability, service recovery, technology, and human accountability shape the customer experience together. | Needs evidence | [Mobility series guide](../01-LinkedIn/Mobility/README.md) | Add one real, safe-to-share observation. |
 | STORY-008 | AGMP With Vikash | Applied classroom insights | Management concepts become useful when connected to real business decisions. | Captured | [AGMP Knowledge Vault](../02-Knowledge-Vault/AGMP/README.md) | Capture the next approved lesson using the idea template. |
 | STORY-009 | Leadership Journal | Feedback that changes professional judgment | Difficult feedback can reveal the difference between functional knowledge and broader business readiness. | Ready to develop | [MBM-001](../01-LinkedIn/Marketing-Beyond-Marketing/MBM-001/POST.md) | Avoid repeating MBM-001; identify a distinct leadership angle before drafting. |
 | STORY-010 | Marketing Beyond Marketing | Marketing metrics versus business outcomes | Marketing should connect its metrics to pricing, margins, conversion, operations, retention, and cash flow. | Scheduled; publication confirmation pending | [MBM-001](../01-LinkedIn/Marketing-Beyond-Marketing/MBM-001/POST.md) | Treat as part of STORY-001 unless a new non-repetitive angle emerges. |
+| STORY-011 | AI Visibility Journal | A founder worried about declining traffic and sales | Businesses may need to ask whether AI systems can discover, understand, and trust them enough to include them in an answer. | Raw approved concept — not scheduled | [AIV-001](../01-LinkedIn/AI-Visibility-Journal/AIV-001.md) | Confirm public-safe details and evidence classifications before drafting. |
 
 ## New Entry Template
 

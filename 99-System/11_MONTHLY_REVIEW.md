@@ -29,6 +29,20 @@ Confirm that published URLs and available metrics have been recorded. Do not fil
 - Which important content gaps remain?
 - Did the posts strengthen the intended professional positioning?
 
+
+## AI Visibility Journal Review
+
+- Was the initial approximately fortnightly rotation sustainable?
+- Did the selected posts begin with a genuine problem, observation, or learning?
+- Did the series educate before promoting?
+- Was QueryCite mentioned only when naturally connected?
+- Which posts were story-led, analytical, educational, or practical?
+- Which posts generated relevant founder or marketing conversations?
+- Were any QueryCite website visits or sign-ups supported by reliable attribution?
+- Is there enough genuine evidence to maintain or increase frequency?
+- Which AI-search claims remain hypotheses rather than confirmed evidence?
+
+Do not increase frequency because the product needs promotion. Increase it only when the Story Bank contains enough real, useful, safe, and evidence-backed material.
 ## 4. Review the Story Bank and series — 5–10 minutes
 
 For each series ask:
@@ -93,6 +107,8 @@ Permitted changes:
 - **Weakest post and lesson:**
 - **Strongest theme:**
 - **Content gap:**
+- **AI Visibility Journal cadence decision:**
+- **QueryCite attribution quality:**
 - **Series change approved:**
 - **Workflow bottleneck:**
 - **One system change permitted:**

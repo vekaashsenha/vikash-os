@@ -14,7 +14,10 @@ LinkedIn is where practical learning becomes public thinking. Posts should not b
 | Thursday | Mobility With Vikash |
 | Friday | Buyer Psychology With Vikash |
 | Saturday | Leadership, personal story, or cross-industry insight |
+| Fortnightly rotation | AI Visibility Journal replaces the weakest or least relevant slot for that week |
 | Sunday | Review, engagement, and planning |
+
+AI Visibility Journal is the seventh permanent pillar, not a seventh mandatory weekly post. Maintain the current sustainable volume and increase its frequency only when genuine QueryCite experiences, experiments, and evidence support it.
 
 ## Drafting Workflow
 
@@ -25,6 +28,10 @@ LinkedIn is where practical learning becomes public thinking. Posts should not b
 5. Write in a natural human voice.
 6. Check for exaggeration, fake certainty, and generic phrasing.
 7. Add series hashtag and publishing notes.
+
+## AI Visibility Journal
+
+Use the canonical [AI Visibility Journal](AI-Visibility-Journal/) folder. Teach before promoting, put the customer problem before the product feature, and keep QueryCite secondary to the insight.
 
 ## Publishing Rule
 

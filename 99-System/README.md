@@ -18,6 +18,14 @@ These files have distinct purposes and should not be merged or treated as duplic
 It does not replace analytical, educational, practical, framework-based, or progress posts. The recommended monthly mix is 50% candid operator stories, 20% analytical or educational posts, 15% practical frameworks or observations, and 15% product-building, experiments, or progress updates.
 
 Use the [Content-Creation Prompt](03_CONTENT_CREATION_PROMPT.md) to draft and the [Content Review Checklist](04_CONTENT_REVIEW_CHECKLIST.md) to run the story quality test. Never force a story, question, product mention, emotional arc, or heroic conclusion.
+
+## Seven Permanent Content Pillars
+
+The seventh permanent pillar is [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/). It educates founders, marketers, and business leaders about AI visibility, AI search, GEO, AEO, SEO evolution, customer discovery, and the evidence-backed QueryCite build journey.
+
+It rotates into the existing six-post weekly volume approximately once every two weeks when it has the strongest genuine story. It replaces the weakest or least relevant slot for that week without permanently removing another pillar. It does not create a mandatory seventh post or Sunday schedule.
+
+The permanent promotion rules are in [the Operating Rules](14_VIKASHOS_OPERATING_RULES.md), and the series-specific working rules are in the [AI Visibility Journal README](../01-LinkedIn/AI-Visibility-Journal/README.md).
 ## Open This First
 
 Start every week with the [VikashOS Control Centre](../VIKASHOS_CONTROL_CENTRE.md).
@@ -113,6 +121,7 @@ Run the [Monthly Review](11_MONTHLY_REVIEW.md) for 30–45 minutes. Approve at m
 | [13_FAILURE_RECOVERY_GUIDE.md](13_FAILURE_RECOVERY_GUIDE.md) | Non-technical recovery instructions |
 | [14_VIKASHOS_OPERATING_RULES.md](14_VIKASHOS_OPERATING_RULES.md) | Permanent governance rules |
 | [15_POSTING_TIME_EXPERIMENT.md](15_POSTING_TIME_EXPERIMENT.md) | Controlled LinkedIn timing experiment |
+| [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/) | Seventh permanent pillar, raw concepts, and evidence-gated idea bank |
 | [VIKASHOS_V1_AUDIT.md](VIKASHOS_V1_AUDIT.md) | Repository baseline, gaps, overlaps, decisions |
 
 ## Existing References
@@ -121,6 +130,8 @@ Run the [Monthly Review](11_MONTHLY_REVIEW.md) for 30–45 minutes. Approve at m
 - [Content DNA](../00-Brand-Bible/CONTENT_DNA.md)
 - [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
 - [LinkedIn System](../01-LinkedIn/README.md)
+- [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/)
+- [QueryCite project](../03-Projects/QueryCite/README.md)
 - [Knowledge Vault](../02-Knowledge-Vault/README.md)
 - [VIIF](../02-Knowledge-Vault/Industry-Intelligence/VIIF_FRAMEWORK.md)
 - [Templates](../06-Templates/README.md)

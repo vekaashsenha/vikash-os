@@ -1,8 +1,8 @@
 # Series Guide
 
-VikashOS retains the original model of **six permanent public series**. Additional names in this guide are editorial categories, recurring formats, sub-series, or aliases within those six series. They do not create independent permanent series or new folders.
+VikashOS v1.1 has **seven permanent public series**. Additional names in this guide are editorial categories, recurring formats, sub-series, or aliases within those seven series. They do not create independent permanent series or new folders.
 
-## Six Permanent Series
+## Seven Permanent Series
 
 | Permanent series | Canonical repository home | Related category, format, or alias |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ VikashOS retains the original model of **six permanent public series**. Addition
 | Mobility With Vikash | `01-LinkedIn/Mobility/` | Mobility and Travel Insights |
 | Buyer Psychology With Vikash | `01-LinkedIn/Buyer-Psychology/` | Inside the Buying Committee |
 | Leadership With Vikash | `01-LinkedIn/Leadership/` | Leadership Journal |
+| AI Visibility Journal | `01-LinkedIn/AI-Visibility-Journal/` | AI visibility, AI search, GEO, AEO, customer discovery, and QueryCite build lessons |
 
 `Build-With-Vikash` is the canonical permanent folder. `Build-With-AI` is a legacy or overlapping folder that must remain unchanged until a later content-by-content review.
 
@@ -23,7 +24,7 @@ VikashOS retains the original model of **six permanent public series**. Addition
 | Inside the Buying Committee | Buyer Psychology With Vikash | Use for research-led stakeholder and decision-group analysis. Store in `Buyer-Psychology`. |
 | Mobility and Travel Insights | Mobility With Vikash | Use for travel, mobility, service, and operational observations. Store in `Mobility`. |
 | AI Tools and Automation | Build With Vikash | Use for practical tools, prompts, and automation. Store public posts in `Build-With-Vikash`; supporting notes may live in the AI Knowledge Vault. |
-| AI Visibility Journal | Build With Vikash | Use for real AI-search, SEO, GEO, AEO, visibility, customer-discovery, and QueryCite problems. This style update does not create a new permanent folder or version tag. |
+
 
 Do not create separate series folders for these categories or aliases.
 ## Writing-Style Application
@@ -96,6 +97,21 @@ Recommended monthly mix:
 - **CTA style:** Ask about the reader's build experience or unexpected constraint.
 - **Example folder:** [BWV-001](../01-LinkedIn/Build-With-Vikash/BWV-001/).
 
+
+## AI Visibility Journal
+
+- **Purpose:** Help founders, marketers, and business leaders understand how AI is changing search, discovery, trust, and brand visibility.
+- **Audience:** Founders, small-business owners, B2B marketers, marketing leaders, SaaS teams, SEO professionals, agencies, and businesses assessing AI discoverability.
+- **Tone:** Educational, candid, evidence-aware, and restrained; teach before promoting.
+- **Suitable topics:** AI visibility, AI search behaviour, GEO, AEO, SEO evolution, customer discovery, visibility in AI answers, QueryCite build experiments, and approved user lessons.
+- **Avoid:** Product-first openings, invented conversations or audit results, unsupported claims that AI replaced Google or SEO is dead, confidential customer information, criticism of founders or agencies, and exaggerated QueryCite maturity or outcomes.
+- **Frequency:** Approximately once every two weeks at first, rotated into the current six-post volume when the strongest genuine story supports it.
+- **Scheduling rule:** Replace the least relevant or weakest pillar for that week without permanently removing it. Do not add a seventh weekly post or mandatory Sunday slot.
+- **Typical story structure:** Real problem or incident → changing discovery question → business or marketing insight → natural QueryCite connection when relevant → earned takeaway.
+- **Other valid formats:** Analytical, educational, and practical posts when no genuine incident exists.
+- **Evidence rule:** Label observations, hypotheses, experiments, and confirmed evidence clearly.
+- **Performance rule:** Do not attribute QueryCite visits or sign-ups to LinkedIn without reliable tracking.
+- **Canonical home:** [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/).
 ## Buyer Psychology With Vikash — Inside the Buying Committee Format
 
 - **Purpose:** Explain how stakeholder roles shape B2B buying decisions.

@@ -22,6 +22,14 @@ This calendar records confirmed information and uses `Pending` where facts are u
 | 24 July 2026 | Friday | Mobility With Vikash — Mobility and Travel Insights | Customers pay to remove friction | Scheduled | [MTI-001](../01-LinkedIn/Mobility/MTI-001/) | Approved for publication | Scheduled | 08:30 AM IST | Pending | Pending |
 | 25 July 2026 | Saturday | Leadership With Vikash — Leadership Journal | Listening when a specialist challenges you | Scheduled | [LJ-002](../01-LinkedIn/Leadership/LJ-002/) | Approved for publication | Scheduled | 08:30 AM IST | Pending | Pending |
 
+
+## AI Visibility Journal Rotation
+
+| Candidate | Status | Earliest action | Schedule |
+| --- | --- | --- | --- |
+| [AIV-001](../01-LinkedIn/AI-Visibility-Journal/AIV-001.md) | Raw approved concept | Confirm public-safe details and develop a draft | Not scheduled |
+
+AI Visibility Journal is a permanent pillar but does not create a seventh weekly post. Initially consider it approximately once every two weeks. Rotate it into the existing six-post volume only when it has the strongest genuine, evidence-backed story, replacing the least relevant or weakest pillar for that week without permanently removing that pillar. Do not assign Sunday as a mandatory posting day.
 ## Week 3 — Planning Template
 
 | Date | Day | Series | Topic | Status | Draft location | Approval status | Supergrow status | Scheduled time | Published URL | Performance-review date |
@@ -51,6 +59,8 @@ This calendar records confirmed information and uses `Pending` where facts are u
 - Add a published URL only after confirmation.
 - Record the timezone with every schedule.
 - Carry unfinished ideas back to the Story Bank rather than silently moving dates.
+- Treat AI Visibility Journal as a fortnightly rotation candidate within the existing volume, not an additional mandatory weekly post.
+- Do not schedule AIV-001 until a final post is developed and explicitly approved for publication.
 ## Posting-Time Experiment Tracking
 
 Detailed experiment rules live in [the Posting-Time Experiment](15_POSTING_TIME_EXPERIMENT.md).

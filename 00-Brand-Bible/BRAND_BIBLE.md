@@ -72,6 +72,7 @@ Every public post should do at least one of these:
 - Document a real build, experiment, or decision.
 - Connect marketing with wider business outcomes.
 - Help professionals think more clearly about buyers, systems, and leadership.
+- Teach before promoting, especially when a product such as QueryCite is relevant.
 
 ## Vikash Industry Intelligence Framework
 
@@ -114,7 +115,7 @@ Build once. Use everywhere.
 
 These principles should guide the repository, content calendar, projects, website, and reusable templates.
 
-## Six Permanent Series
+## Seven Permanent Series
 
 | Series | Hashtag | Core Purpose |
 | --- | --- | --- |
@@ -124,6 +125,7 @@ These principles should guide the repository, content calendar, projects, websit
 | AGMP With Vikash | `#AGMPWithVikash` | Turn IIMA AGMP learnings into practical business reflections. |
 | Mobility With Vikash | `#MobilityWithVikash` | Explore travel, corporate mobility, customer experience, and operational excellence. |
 | Leadership With Vikash | `#LeadershipWithVikash` | Share lessons from career growth, communication, decisions, failures, and management. |
+| AI Visibility Journal | `#AIVisibilityJournal` | Educate founders and marketers about AI search, discovery, GEO, AEO, brand visibility, and the evidence-backed QueryCite journey. |
 
 ## Weekly Publishing Rhythm
 
@@ -136,6 +138,8 @@ These principles should guide the repository, content calendar, projects, websit
 | Friday | Buyer Psychology With Vikash |
 | Saturday | Leadership, personal story, or cross-industry insight |
 | Sunday | Review, engagement, and planning |
+
+AI Visibility Journal rotates into the existing six-post volume approximately once every two weeks when it has the strongest evidence-backed story. It replaces the least relevant weekly slot for that week without permanently removing another pillar. Sunday remains reserved for review and is not a mandatory publishing day.
 
 ## Quality Bar
 

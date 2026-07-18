@@ -48,8 +48,9 @@ The framework lives in `02-Knowledge-Vault/Industry-Intelligence`.
 | Mobility With Vikash | `#MobilityWithVikash` | Thursday |
 | Buyer Psychology With Vikash | `#BuyerPsychologyWithVikash` | Friday |
 | Leadership With Vikash | `#LeadershipWithVikash` | Saturday |
+| AI Visibility Journal | `#AIVisibilityJournal` | Fortnightly rotation within the existing weekly volume |
 
-Sunday is reserved for review, engagement, and planning.
+Sunday is reserved for review, engagement, and planning. AI Visibility Journal does not add a mandatory seventh weekly post; it rotates into the schedule when it has the strongest real, evidence-backed story.
 
 ## Writing Rules
 
@@ -61,4 +62,4 @@ The aim is not to position Vikash as an influencer or generic content creator. T
 
 ## Current Status
 
-This is the local setup for VikashOS v1.0. Nothing should be committed, pushed, merged, published, or scheduled until reviewed.
+VikashOS v1.1 includes Candid Operator Storytelling and AI Visibility Journal. Publication and scheduling still require the documented approval workflow.

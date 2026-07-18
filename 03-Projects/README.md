@@ -16,7 +16,7 @@ Projects should connect learning with execution. Each project should have a clea
 
 | Folder | Purpose |
 | --- | --- |
-| `QueryCite` | Research and citation workflow project. |
+| `QueryCite` | AI visibility and citation project; capabilities and outcomes require verified evidence. |
 | `NPS-Widget` | Customer feedback and NPS interface idea. |
 | `Document-Vault` | Personal or business document management concept. |
 | `Future-Ideas` | Backlog for projects that are not ready yet. |

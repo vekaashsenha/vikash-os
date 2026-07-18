@@ -3,6 +3,7 @@
 Audit date: **17 July 2026**  
 Scope: Current VikashOS Git worktree  
 Method: Read-only review of all tracked repository files before system creation
+> **Historical baseline:** This audit records the v1.0 repository as it existed on 17 July 2026. VikashOS v1.1 supersedes its six-series model by adding AI Visibility Journal as a seventh permanent pillar. The original findings below remain unchanged as historical evidence.
 
 ## Executive Summary
 

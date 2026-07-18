@@ -31,6 +31,30 @@ These are permanent rules for VikashOS v1.0.
 - Keep product and company mentions secondary to the insight. For QueryCite and AI Visibility Journal, follow the approximate 70% story, 20% insight, and 10% product-relevance guidance.
 - Protect variety with an approximate monthly mix of 50% candid operator stories, 20% analytical or educational posts, 15% practical frameworks or observations, and 15% product-building, experiments, or progress updates.
 - Do not use the mix as a quota or force an incident into storytelling when an analytical or practical format is more honest.
+
+## AI Visibility Journal and QueryCite
+
+These are permanent rules for the seventh content pillar:
+
+1. Teach before promoting.
+2. Put the story before the product.
+3. Put the customer problem before the product feature.
+4. Use real experiences and observations only.
+5. Never invent founder conversations, customer quotations, audit results, metrics, recommendations, or product outcomes.
+6. QueryCite does not need to appear in every AI Visibility Journal post.
+7. When QueryCite is mentioned, connect it naturally to the problem being discussed.
+8. Do not open with “Try QueryCite,” “We launched,” or generic product promotion.
+9. Do not make unsupported claims that AI has replaced Google or that SEO is dead.
+10. Distinguish clearly between observation, hypothesis, experiment, and confirmed evidence.
+11. Do not publish confidential customer information.
+12. Do not criticise founders, companies, agencies, or clients.
+13. Do not exaggerate QueryCite's maturity, customers, capabilities, or results.
+14. Use Candid Operator Storytelling when a genuine incident exists.
+15. Mix story-led posts with analytical, educational, and practical posts.
+
+For story-led posts, approximately 70% real incident or problem, 20% business or marketing insight, and 10% natural QueryCite connection is guidance, not a rigid formula.
+
+AI Visibility Journal initially rotates into the existing six-post volume approximately once every two weeks. It does not create a mandatory seventh weekly post or Sunday publishing slot. Increase frequency only when genuine experiences, experiments, and evidence support it.
 ## Structure and Naming
 
 13. Do not duplicate series, folders, post IDs, templates, dashboards, or SOPs.
@@ -45,7 +69,7 @@ These are permanent rules for VikashOS v1.0.
 19. Carry unused ideas forward rather than forcing publication.
 20. Canva is optional and must not block an approved text post.
 21. Performance is recorded only after publication and only from available evidence.
-22. No posting time may be declared 
+22. No posting time may be declared best without sufficient confirmed data and an approved review.
 
 ## System Improvement
 

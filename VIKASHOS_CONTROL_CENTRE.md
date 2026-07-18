@@ -8,7 +8,7 @@ Last reviewed: **18 July 2026**
 
 | Area | Status | Next action |
 | --- | --- | --- |
-| Brand and voice | Candid Operator Storytelling added for v1.1 | Use the new standard as the primary style for genuine story-led posts. |
+| Brand and voice | VikashOS v1.1 writing and pillar standards complete | Use Candid Operator Storytelling and the AI Visibility Journal evidence rules. |
 | Weekly workflow | Ready for review | Run the first 2–3 hour weekly session. |
 | Story Bank | Seeded with 10 known ideas | Add three to five raw ideas next session. |
 | Content production | Operational | Apply the story quality test without forcing every post into storytelling. |
@@ -17,6 +17,7 @@ Last reviewed: **18 July 2026**
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
 | Performance tracking | Templates ready; results pending | Confirm published URLs and capture real metrics. |
 | Posting-time experiment | Experiment Window — 8:30 AM IST | Six approved posts are scheduled for 20–25 July 2026 in Asia/Kolkata. |
+| AI Visibility Journal | Seventh pillar; raw concept captured | Verify AIV-001 details before drafting; do not schedule yet. |
 
 ## Dashboard Roles
 
@@ -31,7 +32,23 @@ Last reviewed: **18 July 2026**
 - **Variety:** Keep analytical, educational, practical, framework-based, experiment, and progress formats in the mix.
 - **QueryCite rule:** The real visibility problem comes first; QueryCite remains secondary to the insight.
 - **Retroactive rule:** Previously published and scheduled posts are not rewritten to match the new standard.
-- **Version rule:** No v1.1 tag until the wider v1.1 scope, including AI Visibility Journal, is complete.
+- **Version rule:** v1.1 requires both Candid Operator Storytelling and the AI Visibility Journal integration before tagging.
+
+## AI Visibility Journal Control
+
+| Field | Current state |
+| --- | --- |
+| Current status | Seventh permanent pillar created; educate before promoting |
+| Next available real story | [AIV-001: founder concerned about declining sales and website traffic](01-LinkedIn/AI-Visibility-Journal/AIV-001.md) |
+| Evidence required | Public-safe conversation details; observation versus hypothesis classification; verified QueryCite claims, if mentioned |
+| Draft status | Raw approved concept only; no final LinkedIn draft |
+| Review status | Editorial development approved; publication wording not reviewed |
+| Scheduling status | Not scheduled |
+| Performance status | No post published; no metrics available |
+| Initial cadence | Approximately once every two weeks within the existing six-post volume |
+| Promotion rule | Capture a genuine problem or build learning first; do not generate a product advertisement |
+
+Open the [AI Visibility Journal](01-LinkedIn/AI-Visibility-Journal/) and its [evidence-gated idea bank](01-LinkedIn/AI-Visibility-Journal/IDEAS.md).
 ## This Week's Content
 
 | Content | Series | Repository status | Recorded schedule | Source |
@@ -84,8 +101,9 @@ Canva is optional and does not block publication.
 
 ## Story Bank
 
-- **Total seeded stories:** 10
+- **Total seeded stories:** 11
 - **Scheduled; publication confirmation pending:** 4 entries, including one overlapping MBM angle
+- **Raw approved concepts:** 1
 - **Ready to develop:** 2
 - **Captured:** 2
 - **Needs evidence:** 2
@@ -108,8 +126,8 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 - **Git source of truth:** `origin/main`
 - **Worktree at audit start:** Clean
-- **Latest system change:** Candid Operator Storytelling standard added as the v1.1 writing-style layer
-- **Release status:** Wider v1.1 work remains incomplete; no new version tag created
+- **Latest system change:** AI Visibility Journal and QueryCite integrated with the Candid Operator Storytelling standard
+- **Release status:** VikashOS v1.1 scope complete; release commit and tag require Git verification
 - **Existing approved posts changed:** No
 
 ## Current Bottlenecks
@@ -119,11 +137,11 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 3. The canonical series model is resolved, but the legacy `Build-With-AI` folder still requires later content review.
 4. The broad root dashboard contains many stale `To update` fields.
 5. Story evidence is thin outside the three completed post packages.
-6. AI Visibility Journal remains part of the wider v1.1 scope and is not released by this writing-standard change alone.
+6. AI Visibility Journal needs verified experiences and evidence before its initial fortnightly cadence can produce publishable posts.
 
 ## Next Weekly Action
 
-**Confirm actual publication status and public LinkedIn URLs for Manifesto 001, MBM-001, AGMP-001, and BWV-001. Then record available metrics before selecting new posts.**
+**Confirm actual publication status and public LinkedIn URLs for Manifesto 001, MBM-001, AGMP-001, and BWV-001. For AI Visibility Journal, verify AIV-001's public-safe details before drafting or scheduling it.**
 
 ## Quick Links
 
@@ -154,6 +172,8 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 - [Brand Bible](00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](00-Brand-Bible/CONTENT_DNA.md)
 - [Candid Operator Storytelling](00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
+- [AI Visibility Journal](01-LinkedIn/AI-Visibility-Journal/)
+- [QueryCite](03-Projects/QueryCite/README.md)
 - [VIIF](02-Knowledge-Vault/Industry-Intelligence/VIIF_FRAMEWORK.md)
 - [Repository Audit](99-System/VIKASHOS_V1_AUDIT.md)
 - [Broad VikashOS Dashboard](DASHBOARD.md)

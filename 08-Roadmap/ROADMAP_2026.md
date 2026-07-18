@@ -8,7 +8,7 @@ The long-term direction is to document the transformation from experienced B2B m
 
 ## Main Goals
 
-1. Build a consistent LinkedIn publishing system around six permanent series.
+1. Build a consistent LinkedIn publishing system around seven permanent pillars while maintaining a sustainable six-post weekly volume.
 2. Maintain a useful Knowledge Vault that supports content, projects, and career growth.
 3. Develop small AI-assisted projects that solve practical problems.
 4. Connect IIMA AGMP learning with real business application.
@@ -25,7 +25,7 @@ The long-term direction is to document the transformation from experienced B2B m
 
 ## Quarter 2: Consistency
 
-- Publish regularly across all six series.
+- Publish regularly across all seven pillars using rotation rather than adding a mandatory seventh weekly post.
 - Build repeatable LinkedIn drafting and review workflow.
 - Add first project logs for QueryCite, NPS Widget, or Document Vault.
 - Convert useful notes into frameworks.

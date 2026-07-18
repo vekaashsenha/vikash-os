@@ -74,6 +74,10 @@ Corporate travel, retail mobility, customer experience, operational excellence, 
 
 Career growth, communication, decision making, failures, management lessons, interviews, and continuous improvement.
 
+### 7. AI Visibility Journal
+
+AI visibility, AI search behaviour, GEO, AEO, SEO evolution, customer discovery, website visibility in AI answers, and QueryCite's evidence-backed product-building journey. Teach before promoting. QueryCite should follow the customer problem and does not need to appear in every post.
+
 ## Writing Style
 
 - The primary story-led style is [Candid Operator Storytelling](CANDID_OPERATOR_STORYTELLING.md).
@@ -139,7 +143,7 @@ Documenting the transformation from an experienced marketing leader into an AI-p
 
 ## Posting Frequency
 
-Six posts per week.
+Maintain the current sustainable volume of up to six posts per week. Initially rotate AI Visibility Journal into that volume approximately once every two weeks when a genuine, evidence-backed idea is stronger than another planned slot. Do not add a mandatory seventh post or Sunday publishing requirement.
 
 ## Brand Promise
 

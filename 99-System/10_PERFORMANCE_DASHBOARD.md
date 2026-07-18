@@ -14,6 +14,16 @@ Record results only after publication and only from available platform data. Use
 | --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending |
 
+
+## AI Visibility Journal Results
+
+Use this table for AI Visibility Journal posts. Record only metrics the platform or reliable analytics can support.
+
+| Post | Posting date | Posting time | Format | Story-led or analytical | QueryCite mentioned | Impressions | Reactions | Comments | Reposts | Saves | Profile views | New followers | Connection requests | DMs | Relevant founder or marketing conversations | QueryCite website visits | QueryCite sign-ups | Attribution method | Review status |
+| --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
+| Pending | Pending | Pending | Pending | Pending | Yes / No | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Not available until reliably tracked | Not available until reliably tracked | Pending | Pending |
+
+Do not attribute QueryCite website visits or sign-ups to LinkedIn without reliable tracking such as approved campaign parameters, a trustworthy analytics path, or another documented attribution method. Timing correlation is not attribution.
 ## Rate Definitions
 
 - **Engagement rate:** total available engagements ÷ impressions.
@@ -69,3 +79,6 @@ Use medians and confirmed samples. Quality engagements include available comment
 - Use this file for cross-post patterns, not duplicate raw data without purpose.
 - Do not compare formats without enough observations.
 - Do not call a post successful from impressions alone.
+- For AI Visibility Journal, compare educational value and relevant conversations as well as reach.
+- Record whether a post was story-led or analytical and whether QueryCite was mentioned.
+- Use `Not available` rather than attributing QueryCite visits or sign-ups without reliable tracking.

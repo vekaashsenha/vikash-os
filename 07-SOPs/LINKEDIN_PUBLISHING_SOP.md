@@ -4,7 +4,7 @@ Use this process before publishing any VikashOS LinkedIn post.
 
 ## 1. Choose The Series
 
-Confirm the post belongs to one of the six permanent series:
+Confirm the post belongs to one of the seven permanent content pillars:
 
 - Marketing Beyond Marketing
 - Buyer Psychology With Vikash
@@ -12,6 +12,9 @@ Confirm the post belongs to one of the six permanent series:
 - AGMP With Vikash
 - Mobility With Vikash
 - Leadership With Vikash
+- AI Visibility Journal
+
+AI Visibility Journal rotates into the existing weekly volume approximately once every two weeks when it has the strongest evidence-backed idea. It does not create a mandatory Sunday or seventh weekly post.
 
 ## 2. Validate The Idea
 
@@ -62,6 +65,10 @@ Before publishing, confirm:
 - Any personal story is accurate.
 - Any company or client detail is safe to mention.
 - Any research claim has a source.
+- For AI Visibility Journal, every claim is clearly an observation, hypothesis, experiment, or confirmed evidence.
+- Any QueryCite capability, result, website visit, or sign-up claim is verifiable.
+
+For AI Visibility Journal, teach before promoting, put the customer problem before the product feature, and never claim without evidence that AI replaced Google or SEO is dead.
 
 ## 6. Publishing Details
 

@@ -41,6 +41,10 @@ NON-NEGOTIABLE RULES
 - Do not turn an assumption into a fact.
 - Protect employer, customer, colleague, and classroom confidentiality.
 - If a factual gap affects the story, flag it instead of filling it.
+- For AI Visibility Journal, teach before promoting and put the customer problem before any QueryCite feature.
+- Do not claim that AI has replaced Google or that SEO is dead.
+- Distinguish observations, hypotheses, experiments, and confirmed evidence.
+- Do not invent founder conversations, audit findings, recommendations, customer results, or QueryCite capabilities.
 
 WRITING TASK
 1. Identify the single strongest lesson.
@@ -56,6 +60,8 @@ OUTPUT
 - Draft post.
 - Facts or claims requiring confirmation.
 - Confidentiality risks.
+- Observation, hypothesis, experiment, and confirmed-evidence classification where relevant.
+- QueryCite claims requiring verification, if the product is mentioned.
 - One sentence explaining why the post is worth publishing.
 
 Do not publish, schedule, create external drafts, or treat the output as approved.
@@ -83,4 +89,5 @@ Do not copy any creator's wording or structure. Do not invent facts, quotations,
 - Use Candid Operator Storytelling for AGMP only when there is a genuine classroom, peer, or workplace incident; do not force case analysis into a story.
 - Use `Build With Vikash` or `AI and practical automation` for real build attempts, decisions, failures, and lessons.
 - For `AI Visibility Journal` and QueryCite posts, keep the real problem primary and the product secondary; follow the approximate 70% story, 20% insight, and 10% QueryCite guidance in the permanent standard.
+- Use the canonical [AI Visibility Journal rules](../01-LinkedIn/AI-Visibility-Journal/README.md). QueryCite does not need to appear in every post.
 - Use `Mobility and Travel Insights` for grounded travel, service, customer-experience, or operational observations.
