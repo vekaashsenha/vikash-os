@@ -22,7 +22,15 @@ These are permanent rules for VikashOS v1.0.
 10. Do not use private AGMP classroom material in public posts without careful review.
 11. Separate personal opinion from company position.
 12. Mark assumptions and missing evidence clearly.
+## Writing Standard and Content Mix
 
+- Use [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md) as the primary style for story-led posts supported by genuine incidents.
+- The truth and confidentiality rules above override every style preference.
+- Let the lesson emerge from the incident, preserve credible imperfections, and allow Vikash to be wrong, uncertain, surprised, or still learning.
+- Do not force a question, emotional arc, heroic leadership lesson, product mention, or creator-like structure.
+- Keep product and company mentions secondary to the insight. For QueryCite and AI Visibility Journal, follow the approximate 70% story, 20% insight, and 10% product-relevance guidance.
+- Protect variety with an approximate monthly mix of 50% candid operator stories, 20% analytical or educational posts, 15% practical frameworks or observations, and 15% product-building, experiments, or progress updates.
+- Do not use the mix as a quota or force an incident into storytelling when an analytical or practical format is more honest.
 ## Structure and Naming
 
 13. Do not duplicate series, folders, post IDs, templates, dashboards, or SOPs.

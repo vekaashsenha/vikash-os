@@ -27,9 +27,24 @@ Use this before changing a post from `Draft` to `Approved for production` and ag
 - [ ] Repeated ideas and sentences have been removed.
 - [ ] The post does not duplicate a recently published or scheduled post.
 - [ ] Hashtags are relevant and not excessive.
-- [ ] The closing question is thoughtful and connected to the post.
+- [ ] The ending is earned: either a strong takeaway or a natural, connected question.
 - [ ] The post is genuinely worth publishing.
+## Candid Operator Story Test
 
+Use this section for story-led posts. For analytical, educational, practical, or framework-based posts, mark it `Not applicable` rather than forcing a story.
+
+- [ ] The incident actually happened.
+- [ ] There is one clear central tension.
+- [ ] Concrete details make the experience believable without exposing confidential information.
+- [ ] The post sounds like Vikash speaking as a candid marketing operator.
+- [ ] The lesson emerges naturally instead of being announced in the opening.
+- [ ] Unnecessary polishing has not reduced authenticity.
+- [ ] Vikash can defend every statement publicly.
+- [ ] The post is useful without its personal-brand context.
+- [ ] The ending feels earned.
+- [ ] Any product or company mention is secondary to the insight.
+- [ ] The story does not make Vikash look more knowledgeable, senior, successful, or technically capable than the evidence supports.
+- [ ] The post allows Vikash to be wrong, uncertain, surprised, or still learning when that is what happened.
 ## Approval Status
 
 Choose exactly one:

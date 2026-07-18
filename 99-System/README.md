@@ -1,4 +1,4 @@
-# VikashOS v1.0 Operating System
+# VikashOS v1.1 Operating System
 
 `99-System` is the weekly control layer for VikashOS. It connects ideas, drafting, approval, Codex production, GitHub, Supergrow, optional Canva, scheduling, recovery, and performance review.
 
@@ -11,7 +11,13 @@ It does not replace the Brand Bible, Knowledge Vault, templates, SOPs, or projec
 - [Root Strategic Dashboard](../DASHBOARD.md): broader strategy, projects, six operating systems, and long-term direction.
 
 These files have distinct purposes and should not be merged or treated as duplicates.
+## Permanent Writing Standard
 
+[Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md) is the primary style for story-led LinkedIn posts supported by genuine incidents.
+
+It does not replace analytical, educational, practical, framework-based, or progress posts. The recommended monthly mix is 50% candid operator stories, 20% analytical or educational posts, 15% practical frameworks or observations, and 15% product-building, experiments, or progress updates.
+
+Use the [Content-Creation Prompt](03_CONTENT_CREATION_PROMPT.md) to draft and the [Content Review Checklist](04_CONTENT_REVIEW_CHECKLIST.md) to run the story quality test. Never force a story, question, product mention, emotional arc, or heroic conclusion.
 ## Open This First
 
 Start every week with the [VikashOS Control Centre](../VIKASHOS_CONTROL_CENTRE.md).
@@ -25,11 +31,12 @@ Then use the [Weekly Workflow](01_WEEKLY_WORKFLOW.md) to move only the strongest
 3. Add or update them in the [Story Bank](08_STORY_BANK.md).
 4. Select the strongest one to three ideas.
 5. Give ChatGPT the selected entries and [Content-Creation Prompt](03_CONTENT_CREATION_PROMPT.md).
-6. Review drafts with the [Content Review Checklist](04_CONTENT_REVIEW_CHECKLIST.md).
-7. After production approval, give Codex the [Production Prompt](05_CODEX_PRODUCTION_PROMPT.md).
-8. Review the five-file package.
-9. After publication approval, give Codex the [Publishing and Scheduling Prompt](06_PUBLISHING_AND_SCHEDULING_PROMPT.md).
-10. Update the [Calendar](09_CONTENT_CALENDAR.md), [Performance Dashboard](10_PERFORMANCE_DASHBOARD.md), and Control Centre.
+6. For a genuine story-led idea, apply [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md).
+7. Review drafts with the [Content Review Checklist](04_CONTENT_REVIEW_CHECKLIST.md).
+8. After production approval, give Codex the [Production Prompt](05_CODEX_PRODUCTION_PROMPT.md).
+9. Review the five-file package.
+10. After publication approval, give Codex the [Publishing and Scheduling Prompt](06_PUBLISHING_AND_SCHEDULING_PROMPT.md).
+11. Update the [Calendar](09_CONTENT_CALENDAR.md), [Performance Dashboard](10_PERFORMANCE_DASHBOARD.md), and Control Centre.
 
 ## What to Give ChatGPT
 
@@ -112,6 +119,7 @@ Run the [Monthly Review](11_MONTHLY_REVIEW.md) for 30–45 minutes. Approve at m
 
 - [Brand Bible](../00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](../00-Brand-Bible/CONTENT_DNA.md)
+- [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
 - [LinkedIn System](../01-LinkedIn/README.md)
 - [Knowledge Vault](../02-Knowledge-Vault/README.md)
 - [VIIF](../02-Knowledge-Vault/Industry-Intelligence/VIIF_FRAMEWORK.md)

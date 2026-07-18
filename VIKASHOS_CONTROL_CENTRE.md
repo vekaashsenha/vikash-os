@@ -2,16 +2,16 @@
 
 Open this file first each week.
 
-Last reviewed: **17 July 2026**
+Last reviewed: **18 July 2026**
 
 ## Current System Status
 
 | Area | Status | Next action |
 | --- | --- | --- |
-| Brand and voice | Complete for v1.0 | Use the Brand Bible before public drafting. |
+| Brand and voice | Candid Operator Storytelling added for v1.1 | Use the new standard as the primary style for genuine story-led posts. |
 | Weekly workflow | Ready for review | Run the first 2–3 hour weekly session. |
 | Story Bank | Seeded with 10 known ideas | Add three to five raw ideas next session. |
-| Content production | Operational | Use approval gates and standard five-file packages. |
+| Content production | Operational | Apply the story quality test without forcing every post into storytelling. |
 | GitHub source of truth | Operational | Keep content and metadata commits separate. |
 | Supergrow | Operational in recorded post packages | Confirm publication state after scheduled dates. |
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
@@ -23,7 +23,15 @@ Last reviewed: **17 July 2026**
 - **This Control Centre:** weekly operations, approvals, bottlenecks, and next actions.
 - **[Content Performance Dashboard](99-System/10_PERFORMANCE_DASHBOARD.md):** content metrics, posting-time analysis, and performance lessons.
 - **[Root Strategic Dashboard](DASHBOARD.md):** broader strategy, projects, six operating systems, and long-term direction.
+## Permanent Writing Standard
 
+- **Primary story-led style:** [Candid Operator Storytelling](00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
+- **Voice:** Candid marketing operator.
+- **Ending:** Strong takeaway or natural question; a question is not mandatory.
+- **Variety:** Keep analytical, educational, practical, framework-based, experiment, and progress formats in the mix.
+- **QueryCite rule:** The real visibility problem comes first; QueryCite remains secondary to the insight.
+- **Retroactive rule:** Previously published and scheduled posts are not rewritten to match the new standard.
+- **Version rule:** No v1.1 tag until the wider v1.1 scope, including AI Visibility Journal, is complete.
 ## This Week's Content
 
 | Content | Series | Repository status | Recorded schedule | Source |
@@ -100,7 +108,8 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 - **Git source of truth:** `origin/main`
 - **Worktree at audit start:** Clean
-- **Current task changes:** New `99-System` operating layer and this Control Centre; uncommitted for review
+- **Latest system change:** Candid Operator Storytelling standard added as the v1.1 writing-style layer
+- **Release status:** Wider v1.1 work remains incomplete; no new version tag created
 - **Existing approved posts changed:** No
 
 ## Current Bottlenecks
@@ -110,6 +119,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 3. The canonical series model is resolved, but the legacy `Build-With-AI` folder still requires later content review.
 4. The broad root dashboard contains many stale `To update` fields.
 5. Story evidence is thin outside the three completed post packages.
+6. AI Visibility Journal remains part of the wider v1.1 scope and is not released by this writing-standard change alone.
 
 ## Next Weekly Action
 
@@ -143,6 +153,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 - [Brand Bible](00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](00-Brand-Bible/CONTENT_DNA.md)
+- [Candid Operator Storytelling](00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
 - [VIIF](02-Knowledge-Vault/Industry-Intelligence/VIIF_FRAMEWORK.md)
 - [Repository Audit](99-System/VIKASHOS_V1_AUDIT.md)
 - [Broad VikashOS Dashboard](DASHBOARD.md)

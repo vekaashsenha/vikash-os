@@ -1,6 +1,6 @@
 # Content DNA 2.0: VikashOS Edition
 
-This is the working Content DNA for VikashOS v1.0.
+This is the working Content DNA for VikashOS v1.1.
 
 ## Name
 
@@ -76,14 +76,15 @@ Career growth, communication, decision making, failures, management lessons, int
 
 ## Writing Style
 
-- Professional but conversational.
-- Practical rather than theoretical.
-- Story-driven when appropriate.
-- Framework-oriented.
-- Business-first.
-- Honest and experience-backed.
-- Curious rather than preachy.
-- Educational without sounding like a textbook.
+- The primary story-led style is [Candid Operator Storytelling](CANDID_OPERATOR_STORYTELLING.md).
+- Write as a candid marketing operator: personal, direct, specific, and business-aware.
+- Start genuine stories with the incident, tension, contradiction, decision, failure, or observation.
+- Use short paragraphs and simple language.
+- Let the lesson emerge after the story.
+- Preserve uncertainty and imperfect details when they are true and useful.
+- Stay professional but conversational, practical rather than theoretical, and curious rather than preachy.
+- Use frameworks when they clarify an idea, not as a compulsory structure.
+- Keep analytical and educational posts available when no genuine story exists.
 
 ## Tone
 
@@ -96,10 +97,23 @@ Avoid:
 - Artificial hype
 - Overuse of emojis
 - Empty productivity advice
+- Startup-founder imitation
+- Corporate ghostwriting
+- Forced thought leadership
+- Artificial humility
+- Generic AI-influencer language
 
-## Signature Framework
+## Content Structures
 
-Most educational posts should follow:
+Story-led posts should generally follow:
+
+1. Real incident or observation
+2. Concrete detail
+3. Tension, trade-off, disagreement, failure, or uncertainty
+4. Emerging business lesson
+5. Earned takeaway or natural question
+
+Educational or analytical posts may follow:
 
 1. Observation
 2. Business Context
@@ -107,6 +121,17 @@ Most educational posts should follow:
 4. Framework
 5. Practical Takeaway
 6. Question for Discussion
+
+A question is optional in every format. Do not add one when a strong takeaway is the more natural ending.
+
+## Recommended Monthly Style Mix
+
+- 50% candid operator stories.
+- 20% analytical or educational posts.
+- 15% practical frameworks or observations.
+- 15% product-building, experiments, or progress updates.
+
+Use this mix to protect variety, not as a quota that forces weak posts.
 
 ## Long-Term Positioning
 

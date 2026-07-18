@@ -54,6 +54,14 @@ It should not be:
 - Written like a generic AI output.
 - Written like an influencer playbook.
 
+### Primary Story-Led Style
+
+[Candid Operator Storytelling](CANDID_OPERATOR_STORYTELLING.md) is the primary style for posts built around a genuine operating experience.
+
+The voice is a candid marketing operator: first-person, direct, specific, and willing to show uncertainty or an imperfect decision when it is true. The incident comes first and the lesson emerges from it. The style must not imitate a startup founder, motivational speaker, corporate ghostwriter, artificially humble leader, marketing guru, generic AI influencer, or any specific creator.
+
+This standard does not make every post a story. Analytical, educational, practical, framework-based, and product-progress posts remain part of the content system.
+
 ## Content Principles
 
 Every public post should do at least one of these:
@@ -88,8 +96,11 @@ The public LinkedIn post is only the visible output. The underlying thinking sho
 ## Permanent Writing Rules
 
 - Content must sound human.
+- Use Candid Operator Storytelling as the primary standard when a story-led post is supported by a real incident.
 - Prefer real experience, practical frameworks, specific observations, honest uncertainty, and natural sentence flow.
 - Do not invent stories, numbers, outcomes, clients, or internal data.
+- Let the lesson emerge from the incident; do not force a question or heroic ending.
+- Preserve credible imperfections and use only experiences Vikash can defend publicly.
 - Avoid generic AI language, empty productivity advice, and artificial hype.
 - Use emojis rarely, only when they add clarity or warmth.
 - Never position Vikash as an influencer or generic content creator.

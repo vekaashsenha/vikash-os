@@ -23,9 +23,31 @@ VikashOS retains the original model of **six permanent public series**. Addition
 | Inside the Buying Committee | Buyer Psychology With Vikash | Use for research-led stakeholder and decision-group analysis. Store in `Buyer-Psychology`. |
 | Mobility and Travel Insights | Mobility With Vikash | Use for travel, mobility, service, and operational observations. Store in `Mobility`. |
 | AI Tools and Automation | Build With Vikash | Use for practical tools, prompts, and automation. Store public posts in `Build-With-Vikash`; supporting notes may live in the AI Knowledge Vault. |
+| AI Visibility Journal | Build With Vikash | Use for real AI-search, SEO, GEO, AEO, visibility, customer-discovery, and QueryCite problems. This style update does not create a new permanent folder or version tag. |
 
 Do not create separate series folders for these categories or aliases.
+## Writing-Style Application
 
+[Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md) is the preferred style when a post in the following lanes is supported by a genuine incident:
+
+| Series or lane | Application |
+| --- | --- |
+| Marketing Beyond Marketing | Preferred for real marketing, commercial, reporting, campaign, lead-quality, or alignment incidents. |
+| Inside the Buying Committee | Preferred when a real buyer, stakeholder, or decision-group observation is available; do not invent buyer behaviour. |
+| Leadership Journal | Preferred for genuine feedback, disagreement, decision, failure, or team situations. |
+| Build With Vikash | Preferred for real build attempts, errors, trade-offs, experiments, and product decisions. |
+| Mobility and Travel Insights | Preferred for genuine service, travel, mobility, or customer-friction observations. |
+| AI Visibility Journal | Preferred for real founder, marketer, customer, or product-building problems; QueryCite remains secondary to the insight. |
+| AGMP With Vikash | Use only when there is a genuine classroom, peer, or workplace incident. Do not force case analysis into storytelling. |
+
+This preference applies to story-led posts, not every post. Analytical, educational, practical, framework-based, and progress formats remain valid. End with a strong takeaway or a natural question; do not force a question.
+
+Recommended monthly mix:
+
+- 50% candid operator stories.
+- 20% analytical or educational posts.
+- 15% practical frameworks or observations.
+- 15% product-building, experiments, or progress updates.
 ## Leadership With Vikash — Leadership Journal Format
 
 - **Purpose:** Share honest career, feedback, decision, and leadership lessons.
