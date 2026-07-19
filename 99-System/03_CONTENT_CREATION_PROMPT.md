@@ -46,6 +46,17 @@ NON-NEGOTIABLE RULES
 - Distinguish observations, hypotheses, experiments, and confirmed evidence.
 - Do not invent founder conversations, audit findings, recommendations, customer results, or QueryCite capabilities.
 
+PROVISIONAL DRAFTING TESTS — FIRST WEEKLY PERFORMANCE REVIEW
+- Apply these only to future unscheduled posts and reassess after at least four comparable weeks.
+- Begin with the real moment, contradiction, difficult question, or uncomfortable statement sooner.
+- Preserve specific details and let the lesson follow the incident.
+- Do not add a programme or product promotion to the end of an otherwise personal story.
+- Never exaggerate consequences for a stronger hook.
+- Continue using personal-transition stories selectively and focused AGMP lessons where supported by real material.
+- Keep one central idea per post.
+- When discussion is useful, use a specific unresolved tension rather than a generic engagement question.
+- Do not assume Tuesday is best, Friday is weak, or one content type always outperforms another.
+
 WRITING TASK
 1. Identify the single strongest lesson.
 2. Start with the real observation or tension; do not manufacture drama.

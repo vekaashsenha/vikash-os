@@ -8,11 +8,21 @@ Record results only after publication and only from available platform data. Use
 - **Date updated:**
 - **Updated by:**
 
+## Current Weekly Evidence
+
+The first weekly evidence review is recorded in [Supergrow Weekly Learning — 19 July 2026](2026-07-19_SUPERGROW_WEEKLY_LEARNING.md).
+
+| Period | Overall impressions | Overall engagements | Overall engagement rate | Followers gained | Supergrow posts | Supergrow-post engagements | Confidence |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| Weekly report received 19 July 2026 | 2,105 | 48 | 2.28% | +46 | 4 | 27 | Provisional; one week |
+
+Current directional signal: personal-transition storytelling led engagement depth; the AGMP operations lesson led reach. These are different outcomes and neither observation is a permanent series rule. Conversation is the clearest weakness because the four Supergrow posts recorded zero comments and zero reposts.
+
 ## Post-Level Results
 
-| Post | Published date | Posting time | Weekday | Time window | Series | Format | Impressions | Reactions | Comments | Reposts | Saves | Profile views | Followers gained | Engagement rate | Comment rate | Save rate | Review status |
-| --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending |
+| Post | Published date | Posting time | Weekday | Time window | Series | Format | Hook type | Story-led or analytical | Promotional ending | Specific discussion tension | Impressions | Reactions | Comments | Reposts | Total engagements | Saves | Profile views | Followers gained | DMs or relevant conversations | Engagement rate | Comment rate | Save rate | Review status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | ---: | ---: | ---: | --- |
+| Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Yes / No | Yes / No | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending |
 
 
 ## AI Visibility Journal Results
@@ -42,6 +52,12 @@ Use the same definitions across periods. If LinkedIn changes available metrics, 
 | Strongest audience response | Pending | Pending |
 | Most useful lesson | Pending | Pending |
 | Next action | Pending | Pending |
+
+## Four-Week Learning Checkpoint
+
+Collect at least four comparable weeks before changing posting-day strategy or converting a series observation into a permanent rule. At the checkpoint, compare personal-transition stories, AGMP insights, marketing operator stories, Build With Vikash posts, other pillars, weekdays, reach versus engagement depth, and comment-generation ability.
+
+Preserve raw source figures separately from calculations. Treat tool recommendations as directional inputs and document any calculation uncertainty.
 
 ## Posting-Time Window Summary
 
@@ -82,3 +98,6 @@ Use medians and confirmed samples. Quality engagements include available comment
 - For AI Visibility Journal, compare educational value and relevant conversations as well as reach.
 - Record whether a post was story-led or analytical and whether QueryCite was mentioned.
 - Use `Not available` rather than attributing QueryCite visits or sign-ups without reliable tracking.
+- Record hook type, promotional ending, and whether the post offers a specific discussion tension.
+- Do not treat reach and engagement rate as the same outcome.
+- Do not infer weekday or series rules from one week or one post.

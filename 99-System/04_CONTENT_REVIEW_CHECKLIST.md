@@ -29,6 +29,19 @@ Use this before changing a post from `Draft` to `Approved for production` and ag
 - [ ] Hashtags are relevant and not excessive.
 - [ ] The ending is earned: either a strong takeaway or a natural, connected question.
 - [ ] The post is genuinely worth publishing.
+
+## Provisional Weekly-Learning Check
+
+Apply this section to future unscheduled drafts until the four-week review checkpoint. These are drafting tests, not permanent performance rules.
+
+- [ ] The genuine moment, contradiction, difficult question, or uncomfortable statement appears early enough.
+- [ ] Specific details are preserved and the lesson follows the incident.
+- [ ] The post keeps one central idea.
+- [ ] Consequences are not exaggerated to strengthen the hook.
+- [ ] An otherwise personal story does not end with an unnecessary programme or product promotion.
+- [ ] If the post seeks discussion, it offers a specific tension rather than a generic engagement question.
+- [ ] No conclusion assumes Tuesday is best, Friday is weak, or a series always performs a particular way.
+- [ ] Reach and engagement depth are evaluated as different outcomes.
 ## Candid Operator Story Test
 
 Use this section for story-led posts. For analytical, educational, practical, or framework-based posts, mark it `Not applicable` rather than forcing a story.

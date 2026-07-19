@@ -2,7 +2,7 @@
 
 Open this file first each week.
 
-Last reviewed: **18 July 2026**
+Last reviewed: **19 July 2026**
 
 ## Current System Status
 
@@ -15,7 +15,7 @@ Last reviewed: **18 July 2026**
 | GitHub source of truth | Operational | Keep content and metadata commits separate. |
 | Supergrow | Operational in recorded post packages | Confirm publication state after scheduled dates. |
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
-| Performance tracking | Templates ready; results pending | Confirm published URLs and capture real metrics. |
+| Performance tracking | First provisional weekly learning recorded | Continue the 08:30 IST experiment and collect four comparable weeks before changing strategy. |
 | Posting-time experiment | Experiment Window — 8:30 AM IST | Six approved posts are scheduled for 20–25 July 2026 in Asia/Kolkata. |
 | AI Visibility Journal | Seventh pillar; raw concept captured | Verify AIV-001 details before drafting; do not schedule yet. |
 
@@ -33,6 +33,18 @@ Last reviewed: **18 July 2026**
 - **QueryCite rule:** The real visibility problem comes first; QueryCite remains secondary to the insight.
 - **Retroactive rule:** Previously published and scheduled posts are not rewritten to match the new standard.
 - **Version rule:** v1.1 requires both Candid Operator Storytelling and the AI Visibility Journal integration before tagging.
+
+## Latest Performance Learning
+
+Open [Supergrow Weekly Learning — 19 July 2026](99-System/2026-07-19_SUPERGROW_WEEKLY_LEARNING.md) for the raw report, calculations, limitations, hypotheses, and four-week checkpoint.
+
+- **Evidence level:** Provisional; one week and four Supergrow-published posts.
+- **Engagement-depth signal:** Personal-transition storytelling currently appears strongest.
+- **Reach signal:** The focused AGMP operations lesson currently appears strongest.
+- **Primary weakness:** Zero comments and zero reposts across the four posts.
+- **Drafting test:** Put the genuine tension earlier, preserve specifics, and avoid unnecessary promotional endings without exaggerating consequences.
+- **Timing decision:** None. Tuesday and Friday findings remain hypotheses.
+- **Scheduled-content decision:** Keep the 20–25 July 08:30 AM IST experiment unchanged.
 
 ## AI Visibility Journal Control
 
@@ -119,6 +131,7 @@ Open the [Master Story Bank](99-System/08_STORY_BANK.md).
 - **Baseline confirmed samples with results:** 0
 - **Results awaiting collection:** MBM-001, AGMP-001, and BWV-001 at 2 hours, 24 hours, 72 hours, and 7 days, subject to publication verification
 - **Timing decisions awaiting approval:** No default-time change is proposed until the experiment results are recorded.
+- **Four-week checkpoint:** Compare weekdays, content jobs, reach, engagement depth, and conversation only after four comparable weeks.
 
 Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 

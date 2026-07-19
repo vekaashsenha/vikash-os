@@ -112,6 +112,14 @@ Recommended monthly mix:
 - **Evidence rule:** Label observations, hypotheses, experiments, and confirmed evidence clearly.
 - **Performance rule:** Do not attribute QueryCite visits or sign-ups to LinkedIn without reliable tracking.
 - **Canonical home:** [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/).
+
+## Provisional Series-Level Observation — 19 July 2026
+
+One Supergrow weekly report suggests that personal-transition storytelling may currently support engagement depth and audience connection, while a focused AGMP lesson may support reach and authority. Treat these as different content jobs, not a ranking of permanent series.
+
+Continue using personal-transition stories selectively and continue publishing focused AGMP lessons when supported by real material. Do not conclude that personal stories always outperform analytical posts, that AGMP always produces more reach, or that product-building posts always receive weak distribution.
+
+Reassess after at least four comparable weeks using the [weekly learning record](2026-07-19_SUPERGROW_WEEKLY_LEARNING.md) and [Performance Dashboard](10_PERFORMANCE_DASHBOARD.md).
 ## Buyer Psychology With Vikash — Inside the Buying Committee Format
 
 - **Purpose:** Explain how stakeholder roles shape B2B buying decisions.

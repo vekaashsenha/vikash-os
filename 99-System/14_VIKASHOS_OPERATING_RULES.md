@@ -78,10 +78,20 @@ AI Visibility Journal initially rotates into the existing six-post volume approx
 27. Improve the system only when a real repeated bottleneck, failure, or missing decision point is documented.
 28. Add automation only when ownership, approval, success, failure, and recovery are clear.
 
+## Performance-Learning Governance
+
+29. Keep raw platform or tool-reported metrics separate from VikashOS calculations and interpretation.
+30. Preserve reported figures when their calculation method is uncertain; record the inconsistency instead of silently correcting the source.
+31. Treat Supergrow recommendations as directional inputs, not unquestionable rules.
+32. Do not exaggerate a known event or consequence to improve a performance score or hook.
+33. Do not convert a one-week, one-post, or uncontrolled comparison into a permanent content, series, or weekday rule.
+34. Collect at least four comparable weeks before proposing a posting-day strategy change, and route any permanent change through the monthly review.
+35. Keep reach, engagement depth, and conversation outcomes separate when interpreting performance.
+
 ## Git Safety
 
-29. Inspect Git status before work and before every commit.
-30. Stage only the approved scope.
-31. Keep content commits separate from production-metadata commits.
-32. Stop on conflicts, unexpected changes, or rejected pushes.
-33. Never force-push or discard user work to complete a content workflow.
+36. Inspect Git status before work and before every commit.
+37. Stage only the approved scope.
+38. Keep content commits separate from production-metadata commits.
+39. Stop on conflicts, unexpected changes, or rejected pushes.
+40. Never force-push or discard user work to complete a content workflow.

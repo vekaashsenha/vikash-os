@@ -27,6 +27,14 @@ The repository contains three posts scheduled for 09:00 AM IST. They are baselin
 - **Next test condition:** Use only after Vikash approves an exact post, date, and time.
 - **Default schedule:** Unchanged. Experiment results may change it only during monthly review.
 
+## Weekly Source Observation — 19 July 2026
+
+Supergrow reported Tuesday as the best-performing day in one weekly report. The same report showed low Friday reach for one product-building post but a calculated engagement rate of approximately 3.49% among people reached.
+
+These observations do not establish that Tuesday is best or Friday should be avoided. The posts differed in series, topic, hook, and story type. Keep the approved 08:30 AM IST schedules unchanged and collect at least four comparable weeks before proposing a weekday change.
+
+Detailed raw data, calculations, and limitations are in [Supergrow Weekly Learning — 19 July 2026](2026-07-19_SUPERGROW_WEEKLY_LEARNING.md).
+
 ## Experiment Rules
 
 1. Change posting time first; avoid changing several major variables simultaneously.
@@ -41,6 +49,8 @@ The repository contains three posts scheduled for 09:00 AM IST. They are baselin
 10. Do not fabricate unavailable data; use `Pending`.
 11. Never change an approved scheduled date or time without explicit approval.
 12. Do not repeatedly use the same test window while another approved window remains unused, unless the phase requires replication.
+13. Collect at least four comparable weeks before proposing a posting-day strategy change.
+14. Record hook type, story-led or analytical approach, promotional ending, and presence of a specific discussion tension alongside timing data.
 
 ## Metrics
 
@@ -110,6 +120,18 @@ Recommend:
 | 10:30 AM | 0 | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Not started |
 | 01:00 PM | 0 | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Not started |
 | 06:30 PM | 0 | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Not started |
+
+## Four-Week Review Checkpoint
+
+After four comparable weekly periods, compare:
+
+- Weekday performance across reasonably comparable posts.
+- Personal-transition, AGMP, marketing operator, Build With Vikash, and other pillar results.
+- Reach versus engagement depth.
+- Comments and reposts as conversation and redistribution signals.
+- Hook type, story-led versus analytical approach, promotional ending, and specific discussion tension.
+
+Do not identify a winning or avoided weekday unless the evidence survives these comparisons and the monthly review approves a change.
 
 ## Confidence Scale
 

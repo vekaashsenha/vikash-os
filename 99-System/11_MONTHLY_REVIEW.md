@@ -10,6 +10,7 @@ Open:
 - [Story Bank](08_STORY_BANK.md)
 - [Content Calendar](09_CONTENT_CALENDAR.md)
 - [Performance Dashboard](10_PERFORMANCE_DASHBOARD.md)
+- [Latest weekly learning](2026-07-19_SUPERGROW_WEEKLY_LEARNING.md)
 
 Confirm that published URLs and available metrics have been recorded. Do not fill gaps with estimates.
 
@@ -84,6 +85,21 @@ Use [the Posting-Time Experiment](15_POSTING_TIME_EXPERIMENT.md) and assess:
 - Whether further controlled testing is needed.
 
 Do not declare a best time from one post or change the default schedule from a weekly fluctuation.
+
+### Four-week evidence checkpoint
+
+Do not change posting-day strategy until at least four comparable weeks have been recorded. At the first checkpoint compare:
+
+- Personal-transition stories.
+- AGMP insights.
+- Marketing operator stories.
+- Build With Vikash posts.
+- Other content pillars.
+- Weekday performance.
+- Reach versus engagement depth.
+- Comment-generation ability.
+
+Check hook type, story-led versus analytical format, promotional ending, and use of a specific discussion tension. Preserve raw source numbers, identify calculation uncertainty, and treat Supergrow recommendations as directional inputs rather than rules.
 
 ## 7. Approve next-month changes — 5 minutes
 
