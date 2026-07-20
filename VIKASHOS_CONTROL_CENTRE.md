@@ -2,7 +2,7 @@
 
 Open this file first each week.
 
-Last reviewed: **19 July 2026**
+Last reviewed: **20 July 2026**
 
 ## Current System Status
 
@@ -16,7 +16,7 @@ Last reviewed: **19 July 2026**
 | Supergrow | Operational in recorded post packages | Confirm publication state after scheduled dates. |
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
 | Performance tracking | First provisional weekly learning recorded | Continue the 08:30 IST experiment and collect four comparable weeks before changing strategy. |
-| Posting-time experiment | Experiment Window — 8:30 AM IST | Six approved posts are scheduled for 20–25 July 2026 in Asia/Kolkata. |
+| Posting-time experiment | Experiment Window — 8:30 AM IST | Eight reviewed posts are scheduled for 27 July–4 August 2026; Sunday, 2 August remains free. |
 | AI Visibility Journal | Seventh pillar; raw concept captured | Verify AIV-001 details before drafting; do not schedule yet. |
 
 ## Dashboard Roles
@@ -81,6 +81,22 @@ Open the [AI Visibility Journal](01-LinkedIn/AI-Visibility-Journal/) and its [ev
 
 All six schedules use the `Experiment Window — 8:30 AM IST` in the `Asia/Kolkata` timezone.
 
+## Scheduled Window: 27 July–4 August 2026
+
+| Content | Series | Repository status | Scheduled time | Source |
+| --- | --- | --- | --- | --- |
+| Why B2B results cannot be demanded overnight | Marketing Beyond Marketing | Scheduled | 27 July 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| The 2017 decision that moved me from offline marketing into digital | Build With Vikash | Scheduled | 28 July 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| Diagnosing the real business problem instead of treating symptoms | AGMP With Vikash | Scheduled | 29 July 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| What repeated free-trial accounts taught me about SaaS pricing | Buyer Psychology With Vikash | Scheduled | 30 July 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| Why I started building QueryCite | AI Visibility Journal | Scheduled | 31 July 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| The child-seat request that exposed an overlooked customer need | Mobility With Vikash | Scheduled | 1 August 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| Weekly review, engagement, and performance capture | No post | Reserved; unscheduled | 2 August 2026 | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| The biggest competitor in B2B is often no decision | Marketing Beyond Marketing | Scheduled | 3 August 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+| From using marketing tools to building them | Build With Vikash | Scheduled | 4 August 2026, 08:30 AM IST | [Weekly plan](01-LinkedIn/Weekly-Plans/2026-07-27_TO_2026-08-04_READY_POSTS.md) |
+
+All eight posts are verified as `scheduled` in the Supergrow `Asia/Calcutta` workspace, equivalent to IST / `Asia/Kolkata`. No target slot was occupied before creation, no matching draft or scheduled post existed, and no scheduling failure occurred.
+
 ## Pending Approvals
 
 - Manifesto 001 remains `Status verification required`; repository evidence does not prove Scheduled or Published.
@@ -101,6 +117,7 @@ Canva is optional and does not block publication.
 
 - The six posts for 20–25 July 2026 are scheduled at 08:30 AM IST in Asia/Kolkata.
 - Manifesto 001 is `Status verification required`; do not schedule or reschedule without verified external state and explicit approval.
+- Eight posts for 27 July–4 August 2026 are scheduled at 08:30 AM IST; Sunday, 2 August remains unscheduled.
 
 ## Pending Performance Reviews
 
@@ -126,7 +143,7 @@ Open the [Master Story Bank](99-System/08_STORY_BANK.md).
 ## Posting-Time Experiment
 
 - **Current phase:** Experiment Window — 8:30 AM IST
-- **Approved test window:** 20–25 July 2026 at 08:30 AM IST in Asia/Kolkata
+- **Approved test windows:** 20 July–4 August 2026 at 08:30 AM IST in Asia/Kolkata, excluding Sundays
 - **Baseline scheduled records:** 3
 - **Baseline confirmed samples with results:** 0
 - **Results awaiting collection:** MBM-001, AGMP-001, and BWV-001 at 2 hours, 24 hours, 72 hours, and 7 days, subject to publication verification
@@ -139,9 +156,9 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 - **Git source of truth:** `origin/main`
 - **Worktree at audit start:** Clean
-- **Latest system change:** AI Visibility Journal and QueryCite integrated with the Candid Operator Storytelling standard
+- **Latest system change:** Eight reviewed LinkedIn posts scheduled through 4 August 2026 and recorded in canonical tracking files
 - **Release status:** VikashOS v1.1 scope complete; release commit and tag require Git verification
-- **Existing approved posts changed:** No
+- **Previously scheduled posts changed:** No
 
 ## Current Bottlenecks
 
@@ -154,7 +171,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 ## Next Weekly Action
 
-**Confirm actual publication status and public LinkedIn URLs for Manifesto 001, MBM-001, AGMP-001, and BWV-001. For AI Visibility Journal, verify AIV-001's public-safe details before drafting or scheduling it.**
+**Monitor the scheduled posts, keep Sunday, 2 August free for review and engagement, and record confirmed publication URLs and performance without changing strategy from one isolated result.**
 
 ## Quick Links
 
