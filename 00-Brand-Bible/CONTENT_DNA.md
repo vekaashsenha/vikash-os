@@ -1,6 +1,6 @@
 # Content DNA 2.0: VikashOS Edition
 
-This is the working Content DNA for VikashOS v1.1.
+This is the working Content DNA for VikashOS v1.2.
 
 ## Name
 
@@ -81,6 +81,8 @@ AI visibility, AI search behaviour, GEO, AEO, SEO evolution, customer discovery,
 ## Writing Style
 
 - The primary story-led style is [Candid Operator Storytelling](CANDID_OPERATOR_STORYTELLING.md).
+- Use the canonical [Content DNA Library](Content-DNA-Library/README.md) to select **how** a post carries its idea. Pillars define **what**; DNA does not create pillars or series.
+- Select one primary DNA and normally one supporting DNA; three is the absolute maximum.
 - Write as a candid marketing operator: personal, direct, specific, and business-aware.
 - Start genuine stories with the incident, tension, contradiction, decision, failure, or observation.
 - Use short paragraphs and simple language.

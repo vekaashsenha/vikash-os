@@ -1,6 +1,6 @@
 # VikashOS Operating Rules
 
-These are permanent rules for VikashOS v1.0.
+These are permanent rules for VikashOS.
 
 ## Source of Truth
 
@@ -25,6 +25,8 @@ These are permanent rules for VikashOS v1.0.
 ## Writing Standard and Content Mix
 
 - Use [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md) as the primary style for story-led posts supported by genuine incidents.
+- Use the [Content DNA Library](../00-Brand-Bible/Content-DNA-Library/README.md): pillars define what; DNA defines how.
+- Select one primary DNA and normally one supporting DNA; never exceed three or manufacture material to fit one.
 - The truth and confidentiality rules above override every style preference.
 - Let the lesson emerge from the incident, preserve credible imperfections, and allow Vikash to be wrong, uncertain, surprised, or still learning.
 - Do not force a question, emotional arc, heroic leadership lesson, product mention, or creator-like structure.

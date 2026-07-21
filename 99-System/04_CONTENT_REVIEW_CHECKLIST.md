@@ -30,6 +30,14 @@ Use this before changing a post from `Draft` to `Approved for production` and ag
 - [ ] The ending is earned: either a strong takeaway or a natural, connected question.
 - [ ] The post is genuinely worth publishing.
 
+## Content DNA Review
+
+- [ ] Pillar describes what; DNA describes how.
+- [ ] One primary DNA fits the real material; supporting DNA has a distinct job; total DNA types do not exceed three.
+- [ ] Hook, body, and ending fit the selected DNA without manufactured tension, humour, emotion, or provocation.
+- [ ] Evidence, confidentiality, prohibited claims, role, project maturity, customer status, and company status satisfy each DNA's guardrails.
+- [ ] The DNA fits the desired outcome and does not duplicate a pillar, series, or framework.
+
 ## Provisional Weekly-Learning Check
 
 Apply this section to future unscheduled drafts until the four-week review checkpoint. These are drafting tests, not permanent performance rules.

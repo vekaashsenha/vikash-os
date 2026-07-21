@@ -8,9 +8,15 @@ Use this template for VikashOS LinkedIn drafts.
 | --- | --- |
 | Series |  |
 | Hashtag |  |
+| Content pillar |  |
+| Primary DNA |  |
+| Supporting DNA | None / selected DNA |
+| Desired outcome | Reach / Trust / Authority / Conversation / Education / Portfolio proof / Product discovery |
 | Target day |  |
 | Status | Draft / Review / Ready |
 | Source | Experience / Research / AGMP / Build log / Observation |
+| Evidence available |  |
+| Prohibited claims or private details |  |
 
 ## 1. Raw Observation
 

@@ -1,4 +1,4 @@
-# VikashOS v1.1 Operating System
+# VikashOS v1.2 Operating System
 
 `99-System` is the weekly control layer for VikashOS. It connects ideas, drafting, approval, Codex production, GitHub, Supergrow, optional Canva, scheduling, recovery, and performance review.
 
@@ -18,6 +18,8 @@ These files have distinct purposes and should not be merged or treated as duplic
 It does not replace analytical, educational, practical, framework-based, or progress posts. The recommended monthly mix is 50% candid operator stories, 20% analytical or educational posts, 15% practical frameworks or observations, and 15% product-building, experiments, or progress updates.
 
 Use the [Content-Creation Prompt](03_CONTENT_CREATION_PROMPT.md) to draft and the [Content Review Checklist](04_CONTENT_REVIEW_CHECKLIST.md) to run the story quality test. Never force a story, question, product mention, emotional arc, or heroic conclusion.
+
+The [Content DNA Library](../00-Brand-Bible/Content-DNA-Library/README.md) is the canonical 18-method selector. The creation prompt infers one primary and normally one supporting DNA from the available evidence.
 
 ## Seven Permanent Content Pillars
 
@@ -128,6 +130,7 @@ Run the [Monthly Review](11_MONTHLY_REVIEW.md) for 30–45 minutes. Approve at m
 
 - [Brand Bible](../00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](../00-Brand-Bible/CONTENT_DNA.md)
+- [Content DNA Library](../00-Brand-Bible/Content-DNA-Library/README.md)
 - [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
 - [LinkedIn System](../01-LinkedIn/README.md)
 - [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/)

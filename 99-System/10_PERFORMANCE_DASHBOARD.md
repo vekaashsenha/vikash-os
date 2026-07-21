@@ -20,9 +20,9 @@ Current directional signal: personal-transition storytelling led engagement dept
 
 ## Post-Level Results
 
-| Post | Published date | Posting time | Weekday | Time window | Series | Format | Hook type | Story-led or analytical | Promotional ending | Specific discussion tension | Impressions | Reactions | Comments | Reposts | Total engagements | Saves | Profile views | Followers gained | DMs or relevant conversations | Engagement rate | Comment rate | Save rate | Review status |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | ---: | ---: | ---: | --- |
-| Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Yes / No | Yes / No | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending |
+| Post | Published date | Posting time | Weekday | Series | Pillar | Primary DNA | Supporting DNA | Hook | Story or analytical | Reach | Engagement rate | Comments | Reposts | Profile views | Followers | DMs | Product interest | Review status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |
+| Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending | Pending |
 
 
 ## AI Visibility Journal Results
@@ -96,7 +96,9 @@ Use medians and confirmed samples. Quality engagements include available comment
 - Do not compare formats without enough observations.
 - Do not call a post successful from impressions alone.
 - For AI Visibility Journal, compare educational value and relevant conversations as well as reach.
-- Record whether a post was story-led or analytical and whether QueryCite was mentioned.
+- Record pillar, primary and supporting DNA, hook, story or analytical format, and whether QueryCite was mentioned.
+- Track reach, engagement rate, comments, reposts, profile views, followers, DMs, and product interest separately.
+- Do not call a DNA, hook, series, or post successful from one post.
 - Use `Not available` rather than attributing QueryCite visits or sign-ups without reliable tracking.
 - Record hook type, promotional ending, and whether the post offers a specific discussion tension.
 - Do not treat reach and engagement rate as the same outcome.

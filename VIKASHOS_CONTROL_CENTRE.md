@@ -2,13 +2,13 @@
 
 Open this file first each week.
 
-Last reviewed: **20 July 2026**
+Last reviewed: **21 July 2026**
 
 ## Current System Status
 
 | Area | Status | Next action |
 | --- | --- | --- |
-| Brand and voice | VikashOS v1.1 writing and pillar standards complete | Use Candid Operator Storytelling and the AI Visibility Journal evidence rules. |
+| Brand and voice | VikashOS v1.2 Content DNA Engine operational | Select a pillar, one primary DNA, and normally one supporting DNA. |
 | Weekly workflow | Ready for review | Run the first 2–3 hour weekly session. |
 | Story Bank | Seeded with 10 known ideas | Add three to five raw ideas next session. |
 | Content production | Operational | Apply the story quality test without forcing every post into storytelling. |
@@ -27,12 +27,14 @@ Last reviewed: **20 July 2026**
 ## Permanent Writing Standard
 
 - **Primary story-led style:** [Candid Operator Storytelling](00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
+- **Narrative selector:** [Content DNA Library](00-Brand-Bible/Content-DNA-Library/README.md)
+- **Taxonomy:** Pillars define what; DNA defines how.
 - **Voice:** Candid marketing operator.
 - **Ending:** Strong takeaway or natural question; a question is not mandatory.
 - **Variety:** Keep analytical, educational, practical, framework-based, experiment, and progress formats in the mix.
 - **QueryCite rule:** The real visibility problem comes first; QueryCite remains secondary to the insight.
 - **Retroactive rule:** Previously published and scheduled posts are not rewritten to match the new standard.
-- **Version rule:** v1.1 requires both Candid Operator Storytelling and the AI Visibility Journal integration before tagging.
+- **Version rule:** v1.2 requires the canonical 18-framework library, operational selector and review checks, DNA-aware performance tracking, classified ready posts, passing links, and no duplicate frameworks before tagging.
 
 ## Latest Performance Learning
 
@@ -157,7 +159,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 - **Git source of truth:** `origin/main`
 - **Worktree at audit start:** Clean
 - **Latest system change:** Eight reviewed LinkedIn posts scheduled through 4 August 2026 and recorded in canonical tracking files
-- **Release status:** VikashOS v1.1 scope complete; release commit and tag require Git verification
+- **Release status:** VikashOS v1.2 Content DNA Engine ready for release verification
 - **Previously scheduled posts changed:** No
 
 ## Current Bottlenecks
@@ -201,6 +203,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 
 - [Brand Bible](00-Brand-Bible/BRAND_BIBLE.md)
 - [Content DNA](00-Brand-Bible/CONTENT_DNA.md)
+- [Content DNA Library](00-Brand-Bible/Content-DNA-Library/README.md)
 - [Candid Operator Storytelling](00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md)
 - [AI Visibility Journal](01-LinkedIn/AI-Visibility-Journal/)
 - [QueryCite](03-Projects/QueryCite/README.md)

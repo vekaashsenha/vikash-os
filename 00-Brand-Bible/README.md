@@ -8,6 +8,7 @@ Use this folder before writing or publishing anything public.
 
 - Brand positioning and messaging rules.
 - Content DNA and writing style.
+- The canonical [Content DNA Library](Content-DNA-Library/README.md) and selection matrix.
 - Permanent content series.
 - Voice, tone, and quality standards.
 - Rules for what VikashOS should never become.

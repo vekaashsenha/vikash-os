@@ -27,6 +27,10 @@ VikashOS v1.1 has **seven permanent public series**. Additional names in this gu
 
 
 Do not create separate series folders for these categories or aliases.
+
+## Pillar and DNA Relationship
+
+Series and pillars define **what**; the [Content DNA Library](../00-Brand-Bible/Content-DNA-Library/README.md) defines **how**. DNA never creates a series. Record one primary and normally one supporting DNA.
 ## Writing-Style Application
 
 [Candid Operator Storytelling](../00-Brand-Bible/CANDID_OPERATOR_STORYTELLING.md) is the preferred style when a post in the following lanes is supported by a genuine incident:

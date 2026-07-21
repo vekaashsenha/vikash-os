@@ -12,7 +12,11 @@ INPUTS
 - Intended series: [SELECT]
 - Known facts and approved evidence: [PASTE]
 - Details that must not be used: [PASTE]
-- Desired outcome: Draft / Revision / Options
+- Desired content outcome: Reach / Trust / Authority / Conversation / Education / Portfolio proof / Product discovery
+- Required output: Draft / Revision / Options
+
+CONTENT DNA SELECTOR
+Before drafting, infer and report: what happened; permanent pillar; one primary DNA; one supporting DNA only if distinct; available evidence; prohibited claims; and desired outcome (reach, trust, authority, conversation, education, portfolio proof, or product discovery). Use no more than three DNA types. Ask only for essential missing facts that change truth, safety, pillar, or selection. Pillars define what; DNA defines how. Use [the canonical library](../00-Brand-Bible/Content-DNA-Library/README.md).
 
 SUPPORTED SERIES OR EDITORIAL LANES
 - Leadership Journal
@@ -68,6 +72,7 @@ WRITING TASK
 8. Use only relevant series hashtags.
 
 OUTPUT
+- Inferred pillar, primary DNA, supporting DNA, and desired outcome.
 - Draft post.
 - Facts or claims requiring confirmation.
 - Confidentiality risks.

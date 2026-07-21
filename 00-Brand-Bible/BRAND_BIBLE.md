@@ -62,6 +62,10 @@ The voice is a candid marketing operator: first-person, direct, specific, and wi
 
 This standard does not make every post a story. Analytical, educational, practical, framework-based, and product-progress posts remain part of the content system.
 
+## Content DNA Engine
+
+Pillars and series define **what** Vikash writes about. The canonical [Content DNA Library](Content-DNA-Library/README.md) defines **how** an idea is expressed. Select one primary DNA and normally one supporting DNA. Evidence, confidentiality, accurate role and maturity, and prohibited-claim rules override style.
+
 ## Content Principles
 
 Every public post should do at least one of these:
