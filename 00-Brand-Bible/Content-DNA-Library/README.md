@@ -27,6 +27,21 @@ Start with the event, evidence, or idea. Select one primary DNA, then add one su
 | [Business Diagnosis](17_BUSINESS_DIAGNOSIS_DNA.md) | Separate a visible symptom from an underlying business condition | Verified symptoms, causes, and constraints | Systems Thinking, Paid Ads |
 | [Contrarian Truth](18_CONTRARIAN_TRUTH_DNA.md) | Challenge a common belief with evidence | A defensible observation, example, or reviewed source | Buyer Psychology, Marketing Myth |
 
+## Pillar-to-DNA Matrix
+
+| Content Pillar | Primary DNA | Supporting DNA |
+| --- | --- | --- |
+| Marketing Beyond Marketing | Paid Ads, Marketing Myth, Systems Thinking | Candid Operator, Wrap |
+| Build With Vikash | AI Builder, Project Resume, Failure and Recovery | Step Guide, Candid Operator |
+| AGMP With Vikash | Business Diagnosis, Decision Maker, Systems Thinking | Candid Operator, Wrap |
+| Mobility With Vikash | Customer Moment, Corporate, Systems Thinking | Buyer Psychology, Candid Operator |
+| Buyer Psychology With Vikash | Buyer Psychology, SaaS Success | Decision Maker, Contrarian Truth |
+| Leadership With Vikash | Corporate, Candid Operator, Decision Maker | Failure and Recovery, Wrap |
+| AI Visibility Journal | AI Builder, SaaS Success, Customer Moment | Step Guide, Contrarian Truth |
+| Personal-transition stories | Candid Operator, Project Resume | Failure and Recovery, Wrap |
+
+These are defaults, not mechanical templates. One post should normally have one primary and one supporting DNA, never more than three.
+
 ## Selection Rules
 
 1. Identify what actually happened and which permanent pillar or series owns the topic.
