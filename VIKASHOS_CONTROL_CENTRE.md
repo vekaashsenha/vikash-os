@@ -16,7 +16,7 @@ Last reviewed: **21 July 2026**
 | Supergrow | Operational in recorded post packages | Confirm publication state after scheduled dates. |
 | Canva | Optional; recent generation failures recorded | Retry later in a separate task; do not block text posts. |
 | Performance tracking | First provisional weekly learning recorded | Continue the 08:30 IST experiment and collect four comparable weeks before changing strategy. |
-| Posting-time experiment | Experiment Window — 8:30 AM IST | Eight reviewed posts are scheduled for 27 July–4 August 2026; Sunday, 2 August remains free. |
+| Posting-time experiment | Morning test plus 18:30 evening-content experiment | Nineteen evening posts are scheduled through 8 August; review both experiments on 9 August without declaring a winner from total impressions alone. |
 | AI Visibility Journal | Seventh pillar; raw concept captured | Verify AIV-001 details before drafting; do not schedule yet. |
 
 ## Dashboard Roles
@@ -198,6 +198,7 @@ Open the [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md).
 - [Failure Recovery Guide](99-System/13_FAILURE_RECOVERY_GUIDE.md)
 - [Operating Rules](99-System/14_VIKASHOS_OPERATING_RULES.md)
 - [Posting-Time Experiment](99-System/15_POSTING_TIME_EXPERIMENT.md)
+- [Evening Content Experiment](99-System/16_EVENING_CONTENT_EXPERIMENT.md)
 
 ### Strategy and evidence
 

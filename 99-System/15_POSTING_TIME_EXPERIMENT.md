@@ -1,5 +1,9 @@
 # LinkedIn Posting-Time Experiment
 
+This file governs the controlled morning-time test. The separate twice-daily test is recorded in the [Evening Content Experiment](16_EVENING_CONTENT_EXPERIMENT.md); do not merge samples or infer a best time across the two experiments without comparable evidence.
+
+This file governs the controlled morning-time test. The separate twice-daily test is recorded in the [Evening Content Experiment](16_EVENING_CONTENT_EXPERIMENT.md); do not merge samples or infer a best time across the two experiments without comparable evidence.
+
 Permanent timezone: **Asia/Kolkata (IST)**
 
 ## Purpose

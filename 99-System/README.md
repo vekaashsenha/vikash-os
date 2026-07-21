@@ -122,7 +122,8 @@ Run the [Monthly Review](11_MONTHLY_REVIEW.md) for 30–45 minutes. Approve at m
 | [12_AUTOMATION_SPEC.md](12_AUTOMATION_SPEC.md) | Triggers, tools, approvals, failures, recovery |
 | [13_FAILURE_RECOVERY_GUIDE.md](13_FAILURE_RECOVERY_GUIDE.md) | Non-technical recovery instructions |
 | [14_VIKASHOS_OPERATING_RULES.md](14_VIKASHOS_OPERATING_RULES.md) | Permanent governance rules |
-| [15_POSTING_TIME_EXPERIMENT.md](15_POSTING_TIME_EXPERIMENT.md) | Controlled LinkedIn timing experiment |
+| [15_POSTING_TIME_EXPERIMENT.md](15_POSTING_TIME_EXPERIMENT.md) | Controlled LinkedIn morning timing experiment |
+| [16_EVENING_CONTENT_EXPERIMENT.md](16_EVENING_CONTENT_EXPERIMENT.md) | 21 July-8 August twice-daily evening-content test and 9 August review |
 | [AI Visibility Journal](../01-LinkedIn/AI-Visibility-Journal/) | Seventh permanent pillar, raw concepts, and evidence-gated idea bank |
 | [VIKASHOS_V1_AUDIT.md](VIKASHOS_V1_AUDIT.md) | Repository baseline, gaps, overlaps, decisions |
 

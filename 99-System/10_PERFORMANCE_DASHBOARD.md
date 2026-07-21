@@ -8,6 +8,10 @@ Record results only after publication and only from available platform data. Use
 - **Date updated:**
 - **Updated by:**
 
+## Active Evening Experiment
+
+Use the [Evening Content Experiment](16_EVENING_CONTENT_EXPERIMENT.md) for 21 July-8 August post-level capture and the 9 August morning-versus-evening review. Bring only evidence-supported cross-post findings back to this dashboard.
+
 ## Current Weekly Evidence
 
 The first weekly evidence review is recorded in [Supergrow Weekly Learning — 19 July 2026](2026-07-19_SUPERGROW_WEEKLY_LEARNING.md).

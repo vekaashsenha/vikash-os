@@ -52,6 +52,10 @@ AI Visibility Journal is a permanent pillar but does not create a seventh weekly
 | Pending | Thursday | Mobility and Travel Insights | Pending | Idea | Pending | Pending | Not submitted | Pending | Pending | Pending |
 | Pending | Friday | Inside the Buying Committee / Buyer Psychology | Pending | Idea | Pending | Pending | Not submitted | Pending | Pending | Pending |
 | Pending | Saturday | Leadership Journal | Pending | Idea | Pending | Pending | Not submitted | Pending | Pending | Pending |
+## Evening Content Experiment - 21 July-8 August
+
+Nineteen shorter second posts are scheduled at 18:30 IST. Their full drafts, DNA classification, live Supergrow IDs, same-day morning references, performance fields, and 9 August review are maintained in the [canonical Evening Content Experiment](16_EVENING_CONTENT_EXPERIMENT.md). This link does not replace or duplicate the morning calendar.
+
 ## Calendar Rules
 
 - A topic enters the calendar only after it exists in the Story Bank.
